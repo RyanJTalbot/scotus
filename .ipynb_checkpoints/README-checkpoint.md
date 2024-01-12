@@ -43,6 +43,9 @@ Decision Type
 - per curiam (no oral argument)
 - per curiam (orally argued)
 - seriatim
+- certiorari
+- special concurrence
+- remanded
 
 ## JUSTICE / VOTING 	
 
@@ -79,37 +82,33 @@ Decision Type
 ## CASE OUTCOME 	
 
 ### Winning Party
-no favorable disposition for petitioning party apparent
-petitioning party received a favorable disposition
-	
-favorable disposition for petitioning party unclear
+- no favorable disposition for petitioning party apparent
+- petitioning party received a favorable disposition
+- favorable disposition for petitioning party unclear
 
 
 ### Case Disposition
-stay, petition, or motion granted
-affirmed (includes modified)
-reversed
-reversed and remanded
-vacated and remanded
-affirmed and reversed (or vacated) in part
-	
-affirmed and reversed (or vacated) in part and remanded
-vacated
-petition denied or appeal dismissed
-certification to or from a lower court
-no disposition
+- stay, petition, or motion granted
+- affirmed (includes modified)
+- reversed
+- reversed and remanded
+- vacated and remanded
+- affirmed and reversed (or vacated) in part
+- affirmed and reversed (or vacated) in part and remanded
+- vacated
+- petition denied or appeal dismissed
+- certification to or from a lower court
+- no disposition
 
 
 ### Declaration Unconstitutional
-no declaration of unconstitutionality
-act of congress declared unconstitutional
-	
-state or territorial law, reg, or const provision unconstitutional
-municipal or other local ordinance unconstitutional
+- no declaration of unconstitutionality
+- act of congress declared unconstitutional
+- state or territorial law, reg, or const provision unconstitutional
+- municipal or other local ordinance unconstitutional
 	
 
 
 ### Precedent Alteration
-no determinable alteration of precedent
-	
-precedent altered
+- no determinable alteration of precedent
+- precedent altered
