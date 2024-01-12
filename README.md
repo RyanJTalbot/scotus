@@ -45,63 +45,47 @@ Decision Type
 - seriatim
 
 ## JUSTICE / VOTING 	
-Justice Involved
 
-
-Vote Type
-voted with majority or plurality
-dissent
-regular concurrence
-special concurrence
-	
-judgment of the Court
-dissent from a denial or dismissal of certiorari , or dissent from summary affirmation of an appeal
-jurisdictional dissent
-justice participated in an equally divided vote
+### Vote Type
+- voted with majority or plurality
+- dissent
+- regular concurrence
+- special concurrence
+- judgment of the Court
+- dissent from a denial or dismissal of certiorari , or dissent from summary affirmation of an appeal
+- jurisdictional dissent
+- justice participated in an equally divided vote
 	
 
 
-Opinion Type
-justice wrote no opinion
-justice wrote an opinion
-	
-justice co-authored an opinion
+### Opinion Type
+- justice wrote no opinion
+- justice wrote an opinion
+- justice co-authored an opinion
 
 
-Vote Direction
-conservative
-	
-liberal
+### Vote Direction
+- conservative
+- liberal
 	
 
 
-Vote Majority
-dissent
-	
-majority
-	
-
-Majority Opinion Assigner
-
-
-
-Majority Opinion Writer
+### Vote Majority
+- dissent
+- majority
 
 
 
 ## CASE OUTCOME 	
-Vote Coalition
 
-
-
-Winning Party
+### Winning Party
 no favorable disposition for petitioning party apparent
 petitioning party received a favorable disposition
 	
 favorable disposition for petitioning party unclear
 
 
-Case Disposition
+### Case Disposition
 stay, petition, or motion granted
 affirmed (includes modified)
 reversed
@@ -116,7 +100,7 @@ certification to or from a lower court
 no disposition
 
 
-Declaration Unconstitutional
+### Declaration Unconstitutional
 no declaration of unconstitutionality
 act of congress declared unconstitutional
 	
@@ -125,7 +109,7 @@ municipal or other local ordinance unconstitutional
 	
 
 
-Precedent Alteration
+### Precedent Alteration
 no determinable alteration of precedent
 	
 precedent altered
