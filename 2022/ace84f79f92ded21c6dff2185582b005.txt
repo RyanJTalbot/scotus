@@ -1,4 +1,0 @@
-changing [2] 29:24 30:15 clear [7] 35:17 44:7 54:11 consolidated [1] 4:5 decide [1] 68:7 15 18:16 20:12 21:23 30:6
-characteristic [1] 32:14 60:10 61:18 66:10,24 constituted [1] 47:9 decided [3] 43:11 57:4 73: 41:3 45:8 52:14,15 53:10
-characteristics [6] 25:15, clearest [1] 32:17 consultants [1] 4:23 6 75:12
-19 51:1,2 56:10 57:2 clips [1] 33:25 consumers [4] 5:5,8 7:12 deciding [1] 22:24 differently[2] 6:3 38:2
