@@ -1,0 +1,884 @@
+11 This case concerns a piece of
+12 statutory text from 1974 in Section 2503, which
+13 is found in the blue brief appendix at page 2a.
+14 That provision exempts from the common law a
+15 narrow set of instruments: a money order,
+16 traveler's check, or other similar written
+17 instrument other than a third-party bank check.
+18 The question today is whether two
+19 products, MoneyGram agent checks and MoneyGram
+20 teller's checks, fall within that exemption.
+21 For many years, the defendant states answered
+22 that question "no." However, after engaging
+23 some creative consultants, they changed their
+24 mind.
+25 They were right the first time for
+Heritage Reporting CorporationOfficial
+5
+1 four separate reasons. First, when Congress
+2 adopted that language in 1974, the term "money
+3 order" referred to specific commercial products
+4 labeled "money order" and typically sold to
+5 unbanked consumers to pay small debts. Neither
+6 of those apply to the two disputed instruments
+7 here. They're not labeled "money order," and
+8 they are sold to consumers with bank accounts
+9 who are transferring larger sums of money.
+10 Second, the FDA was a surgical fix to
+11 this Court's 1972 decision with a key purpose
+12 behind it, to prevent the price of small-dollar
+13 instruments from increasing drew to -- due to
+14 address collection requirements that states
+15 might adopt in reaction to this Court's 1972
+16 decision. That rationale does not apply here,
+17 and the two instruments are outside of the FDA
+18 altogether.
+19 Third, even if you thought these
+20 products were within the FDA, the two
+21 instruments here fall within the third-party
+22 bank check exception. Like all bank checks,
+23 they are signed by bank employees, not
+24 purchasers.
+25 And, fourth, while we believe that our
+Heritage Reporting CorporationOfficial
+6
+1 reading is the best reading of the FDA's text,
+2 structure, and purpose, we don't deny one could
+3 read the statute differently, but importantly,
+4 if you found things in equipoise, two things
+5 would independently break any tie for us.
+6 One is the doctrine of reading
+7 statutes to avoid derogation of the common law,
+8 and the other is this Court's repeated emphasis
+9 on the need for bright-line rules and
+10 predictability in this space.
+11 The defendants' interpretation would
+12 upend all that, as their own amici acknowledge.
+13 Our view of the statute, by contrast, is
+14 predictable, reflects longstanding practice, and
+15 provides a bright line for the escheatment of
+16 financial products in the future.
+17 JUSTICE THOMAS: Mr. Katyal, how much
+18 weight do you put on this money order
+19 designation? What if, tomorrow morning, they
+20 simply stamp the top of these, the two disputed
+21 instruments, "money order," "commercial money
+22 order"? Would that solve your problem?
+23 MR. KATYAL: So, Justice Thomas, that
+24 -- if they changed the label, we do think that
+25 it would mean it's not a money order or
+Heritage Reporting CorporationOfficial
+7
+1 traveler's check. So we do think you look to
+2 the label for that. And, indeed, I think that's
+3 what they say about traveler's checks. But we
+4 don't think it would be true for other similar
+5 instruments.
+6 So we think that in your hypothetical,
+7 in which you have the exact same instrument, but
+8 it has just a different name on it, that is an
+9 other similar written instrument.
+10 Notably, you know, that's never
+11 happened, and the reason is because money orders
+12 and those labels are important for consumers and
+13 for banks. They want to know what they're
+14 getting. They want to know what they're
+15 selling. And that's why they can't point to a
+16 single example where that label has ever been
+17 stripped off.
+18 But I agree with you, Justice Thomas,
+19 if that happened, that would fall within the
+20 FDA, your hypothetical.
+21 JUSTICE THOMAS: So -- well, the --
+22 can you point to any reason in the past why this
+23 would be -- this definition of "money order" is
+24 so narrow? It would seem to me that with its --
+25 over time, it's not necessarily, as you say it
+Heritage Reporting CorporationOfficial
+8
+1 is, a discrete set of instruments.
+2 MR. KATYAL: So we don't doubt,
+3 Justice Thomas, that there is a way to define
+4 "money order" as broadly as my friends on the
+5 other side do.
+6 If you do that, it blows up things
+7 like cashier's checks, certified checks, all the
+8 stuff that the American Bank Association is
+9 warning you about and that Judge Leval couldn't
+10 get around because he just said I'm not going to
+11 define it, but --
+12 JUSTICE THOMAS: One -- one final
+13 question, and I'm sure my colleagues will have
+14 more. But how do you get around "similar," the
+15 -- the similarity language? It seems as though
+16 all of these are drafts and that if you say,
+17 "well, it's not a money order," it looks like a
+18 money order in many other ways.
+19 So why is -- is it -- does it not fall
+20 into the similarity category?
+21 MR. KATYAL: Yes, Justice Thomas. We
+22 don't think it falls into the similar --
+23 similarity category. We think that's for things
+24 like what you were talking about before in your
+25 first question to me, where the -- where the
+Heritage Reporting CorporationOfficial
+9
+1 name isn't there and possibly some other things.
+2 But, here, there are three things
+3 about these disputed instruments which aren't
+4 true about money orders.
+5 First, you can only buy disputed
+6 instrument -- instruments at a bank. Money
+7 orders are sold typically at retailers, CVS,
+8 Walmart, and the like.
+9 Second, you will have a bank account
+10 when you buy them.
+11 And -- and, third, -- and the third
+12 point is that the money order -- the -- that --
+13 that money orders aren't signed by the bank, but
+14 these two disputed instruments are.
+15 Now I know that sounds formalistic.
+16 Here's why that matters: Because Congress and
+17 the FDA was worried about what this Court
+18 invited states to do in 1972, which is impose
+19 address collection requirements on money orders
+20 and traveler's checks.
+21 And what they said is these are
+22 small-denomination instruments. If you do that,
+23 it's going to increase the price of them. The
+24 disputed instruments, because there is that bank
+25 account and because you're going into the bank,
+Heritage Reporting CorporationOfficial
+10
+1 that address information is already being
+2 collected now.
+3 So, if you're worried about my
+4 friend's point about equity and the windfall to
+5 a particular state with respect to these
+6 disputed instruments, the states have the
+7 easiest fix in the world, a fix they didn't have
+8 in 1972, which is to say whenever you're one of
+9 those banks dealing with MoneyGram, you just
+10 have to transmit the address information that
+11 you're already collecting.
+12 JUSTICE JACKSON: But, counsel, you
+13 suggest that Congress's concern was the
+14 collection of address information. If that was
+15 so, they certainly did a weird thing in terms of
+16 the statute that they wrote.
+17 I mean, the statute did not just say
+18 collect the information, which would have solved
+19 the problem directly. The statute seemed to
+20 take into account the fact that there were going
+21 to be circumstances in which that information
+22 was not collected, and Congress appeared to be
+23 trying to override the common law with respect
+24 to what happened because it was really concerned
+25 about inequitable escheatment.
+Heritage Reporting CorporationOfficial
+11
+1 And so my question is, to what extent
+2 do these disputed instruments present that
+3 problem? Because, if we believe that that's
+4 what Congress really cared about, then why would
+5 they have crafted a statute that excluded
+6 certain instruments that presented that same
+7 problem?
+8 MR. KATYAL: Yeah, Justice Jackson, we
+9 don't think that that windfall concern, that
+10 equity concern, applies to the two disputed
+11 instruments. So Congress in '74 was worried
+12 about address collection requirements. They
+13 said we want to head that off because that's
+14 going to increase the price of traveler's checks
+15 and money orders. That's why they didn't write
+16 the statute that you were saying, which is to
+17 impose address requirements.
+18 The findings in 2501 say no, we want
+19 the reverse, because, if you -- if states start
+20 doing that, it's going to increase the cost of
+21 those instruments. And so that concern doesn't
+22 apply to the two disputed instruments here
+23 because the address information is already being
+24 collected. And then, when you're concerned
+25 about the equity that still exists with respect
+Heritage Reporting CorporationOfficial
+12
+1 to these two disputed instruments, because
+2 Delaware has them, not for all bank checks,
+3 obviously, Bank of Americas of the world and
+4 Citibanks are really the large escheators in
+5 this space.
+6 But, with respect to the two disputed
+7 instruments, to the extent that states,
+8 including my friend's states, if they're worried
+9 about the equity, they have the simplest and
+10 easiest fix in the world, which is to just
+11 require that the information, when you go in and
+12 buy a teller's check or an agent check is
+13 issued, it just has to be transmitted to
+14 MoneyGram.
+15 And if that happens, Justice Jackson,
+16 then you avoid this whole equity about state of
+17 incorporation because then the primary rule of
+18 the common law would apply, which is the
+19 creditor's last address.
+20 JUSTICE JACKSON: You can only do that
+21 with respect to your own state, right? I mean,
+22 every state would have to adopt that rule in
+23 order to solve the problem. And Congress, it
+24 appears, wanted to solve the problem in a
+25 different way.
+Heritage Reporting CorporationOfficial
+13
+1 MR. KATYAL: So -- certainly, Congress
+2 could solve it nationally. And this Court in --
+3 in Justice Thomas's opinion in Delaware invited
+4 Congress to do that with respect to the
+5 inequities and windfall that it said wasn't
+6 enough to -- to justify this Court departing
+7 from the common law.
+8 And then you're absolutely right,
+9 Justice, any state that is concerned about the
+10 inequity can pass a law. And I think it's
+11 probably a pretty easy law for them to pass
+12 because, quite honestly, they're just getting
+13 extra money. And so it's up to them.
+14 What my friends are asking you to do
+15 is to basically break from the common law -- and
+16 because of their policy concern -- and that is
+17 exactly what this Court has said every time,
+18 most recently in the Delaware case, that you
+19 don't do, and here is why it's so dangerous.
+20 My friend pitches this as a case about
+21 the secondary -- dueling secondary rules about
+22 place of incorporation versus principal place of
+23 business. That's what happens if you don't have
+24 addresses. But, if you adopt his
+25 interpretation, you're also blowing up the --
+Heritage Reporting CorporationOfficial
+14
+1 the primary rule.
+2 So the primary rule, there's a big
+3 dispute between -- a big -- or a big gulf
+4 between the FDA, this Act, which uses -- which
+5 uses -- which uses the -- the -- it moves away
+6 from the last creditor's address, which is the
+7 rule of the common law.
+8 And so --
+9 JUSTICE JACKSON: And so -- and you're
+10 not reading that to be Congress's attempt,
+11 Congress's attempt to break from the common law?
+12 You're suggesting that what we do here is going
+13 to blow up the common law. But I had understood
+14 that the statute itself was trying to set out a
+15 different set of parameters than what existed in
+16 the common law.
+17 MR. KATYAL: Oh, absolutely. We don't
+18 doubt that they did that with respect to
+19 traveler's checks and money orders, but there's
+20 no indication that they went beyond that. And
+21 we think you should read that narrowly because
+22 the entire reason they wanted to move away from
+23 the common law with respect to these two
+24 instruments is because of the inequity and the
+25 addresses not being collected, which would
+Heritage Reporting CorporationOfficial
+15
+1 increase the cost of those items.
+2 Those don't apply. Those policy
+3 rationales don't apply here. And, notably,
+4 Justice Jackson, Congress in 1974 knew exactly
+5 how to write the statute that you're asking for
+6 to get rid of the common law for a broader set
+7 of instruments.
+8 If you look at our blue brief at page
+9 31, it quotes the 1966 Model Act, Uniform Act
+10 for the disposition of unclaimed property, and
+11 that text is "any sum ... on which a banking or
+12 financial organization or business association
+13 is directly liable, including, by way of
+14 illustration but not of limitation, CDs, drafts,
+15 money orders, and traveler's checks."
+16 Now the first part of that statute
+17 that I just read to you is exactly the language
+18 from 2503. Indeed, Judge Leval below said it
+19 would be the most extreme coincidence that you'd
+20 use all of the same language from 1966 and the
+21 FDA.
+22 But what isn't in there? Everything
+23 about by illustration, by -- by the -- the -- by
+24 way of illustration but not of limitation, the
+25 enumeration of other financial products, like
+Heritage Reporting CorporationOfficial
+16
+1 certificates of deposits and the like.
+2 And so Congress is telling you here in
+3 this statute we mean traveler's checks, we mean
+4 money orders. And, Justice Thomas, absolutely,
+5 we mean other similar written instruments. But
+6 that can't be everything that is prepaid the way
+7 my friends would have it --
+8 JUSTICE ALITO: If someone purchases
+9 an -- an agent check or a teller check, what
+10 information about that purchaser does the bank
+11 transmit to MoneyGram?
+12 MR. KATYAL: None. That's what the
+13 record says.
+14 JUSTICE ALITO: Nothing?
+15 MR. KATYAL: They collect the
+16 information, but it's not transmitted. And so
+17 the record like at -- at our appendix page 599
+18 says the information is collected.
+19 JUSTICE ALITO: Well, they have to
+20 tell MoneyGram something.
+21 MR. KATYAL: They tell -- they -- they
+22 don't tell the -- the actual name, the name of
+23 the payee or the address of the payee, the
+24 relevant information here. And, Justice Alito,
+25 your opinion in the Yee case talked about the
+Heritage Reporting CorporationOfficial
+17
+1 concerns about escheatment and about people not
+2 getting due process and the like.
+3 And to the extent you're concerned
+4 about that, our rule, the common law rule,
+5 incentivizes precisely that state solution
+6 because states will then say: Look, if you
+7 want, MoneyGram, if you want to come into our
+8 state, you've got to transmit that information
+9 and close this informational hiccup. That's
+10 what our sur-reply at pages 22 to 23 goes down
+11 -- goes through.
+12 So that means MoneyGram will now be
+13 under a duty to go and find those people and
+14 say: You know, here, there's this abandoned
+15 check. And if they can't find them even with
+16 the address, then the information all goes into
+17 the state unclaimed database, and then you can
+18 search by name and address.
+19 CHIEF JUSTICE ROBERTS: Mr. --
+20 JUSTICE ALITO: Well, you make the --
+21 CHIEF JUSTICE ROBERTS: I'm sorry, go
+22 ahead.
+23 JUSTICE ALITO: You make the fair
+24 point that the states could require the banks to
+25 transmit this information to MoneyGram. But
+Heritage Reporting CorporationOfficial
+18
+1 just out of curiosity, why doesn't MoneyGram ask
+2 for this information? Would that cost a lot of
+3 money?
+4 MR. KATYAL: Right. The -- the -- the
+5 record doesn't say. I suppose it probably does
+6 cost a little bit of money. And MoneyGram's
+7 indifferent to this whole question and the
+8 American Bar -- the American Bank Association
+9 brief at page 1 says that, look, that these
+10 companies are generally indifferent to these
+11 things.
+12 So it's a very easy statutory fix
+13 because states will get money that they
+14 otherwise wouldn't get. And that wasn't
+15 available in 1974. That's what makes this case
+16 so different from the 1974 FDA, because there,
+17 and Congress specifically, as I was saying to
+18 Justice Jackson, in 2501 made a specific
+19 finding, address information is not being
+20 collected for traveler's checks, not being
+21 collected for money orders, and if you impose
+22 that requirement on those small-dollar
+23 instruments, it's going to increase the cost.
+24 These are, of course, large-dollar
+25 instruments, and so the money is much larger.
+Heritage Reporting CorporationOfficial
+19
+1 And so there's a much better -- you know, a much
+2 better incentive, particularly for the reasons,
+3 Justice Alito, you wrote about in Yee, to try
+4 and collect and find the rightful owners of this
+5 property.
+6 CHIEF JUSTICE ROBERTS: How -- how
+7 much -- what's the comparison in terms of total
+8 value? I mean, I understand your point that the
+9 traveler's checks, the money orders, small,
+10 small amounts, the official checks, the agent
+11 checks, and the teller checks not limited, but
+12 how many of each are there? Where -- where is
+13 -- where is all the money? Is it the money
+14 orders and traveler's checks or the big bank
+15 check -- checks?
+16 MR. KATYAL: Yeah, Your Honor,
+17 unfortunately, the record I don't believe gives
+18 us any quantification of that. We do know that
+19 in 1974 the typical money order was between $1
+20 and $25. And there's other evidence about that.
+21 And even up to today, MoneyGram, for example,
+22 limits money or -- money orders to a thousand
+23 dollars and the like.
+24 CHIEF JUSTICE ROBERTS: Yeah, but the
+25 question there I guess is how many of them there
+Heritage Reporting CorporationOfficial
+20
+1 are.
+2 MR. KATYAL: Correct. And I -- we
+3 don't have information about that. I think
+4 Congress wasn't concerned as much with overall
+5 dollars as they were with the small
+6 denominations and the fact that address
+7 requirements would impose a much bigger burden
+8 compared to the benefit you'd get, whereas here,
+9 you know, I think with -- for these things,
+10 teller's checks existed in 1974. Bank checks
+11 and, you know, agent checks existed just by a
+12 different name in 1974.
+13 Congress pointedly didn't enumerate
+14 any of that in the statute. They used, to use
+15 Justice Gorsuch's convoluted -- phrase from the
+16 first argument, convoluted.
+17 (Laughter.)
+18 MR. KATYAL: Sorry, Justice. You --
+19 you called -- you called Congress's action in
+20 the last argument "convoluted." And I think
+21 that's right here, that if -- if their argument
+22 is right, Congress chose a really weird way of
+23 going about it.
+24 JUSTICE GORSUCH: All right. I was
+25 sitting here quietly.
+Heritage Reporting CorporationOfficial
+21
+1 (Laughter.)
+2 JUSTICE GORSUCH: But now you've drawn
+3 me out, Mr. Katyal.
+4 Other similar instruments, the
+5 language Justice Thomas -- I've got a question,
+6 fine, I'll come up with one, all right. What
+7 does it mean on your account?
+8 And on page 44 of your brief, it says
+9 that "Congress likely intended the term 'other
+10 similar written instrument' to capture alternate
+11 spellings of 'money order' and 'traveler's
+12 check,' such as ... American Express 'Travelers
+13 Cheque.'" Q-U-E.
+14 Okay. Now I am familiar with various
+15 spellings of "traveler's check." I am not
+16 familiar with various spellings of "money
+17 order." Help me out.
+18 MR. KATYAL: Yes. So exactly -- one
+19 category is exactly what Justice Thomas began
+20 the argument with, which is a money order in
+21 every way, shape, and form, except it doesn't
+22 have the label on it. So our argument is not
+23 limited, Justice Gorsuch, to different
+24 spellings.
+25 Same product without the label is what
+Heritage Reporting CorporationOfficial
+22
+1 an other similar instrument is. That's one
+2 category. Another category are things, I think
+3 generic products, so just like a copy is called
+4 a Xerox, I think Congress in 1974 was worried
+5 that a traveler's check might be called an AMEX
+6 or worried that a money order might be called a
+7 Western Union. That's a second category.
+8 And then a third category of other
+9 similar instruments are some of the things that
+10 have been bandied about in this litigation and
+11 in the briefs. So there's something called an
+12 agent check money order. There's something
+13 called a personal money order. That's in our
+14 appendix at page 381. There's something called
+15 a bank money order. There's something --
+16 JUSTICE GORSUCH: I take your point.
+17 Okay. But does it underline another point that
+18 may be problematic, and that is that labels
+19 cannot control substance in our analysis here?
+20 We -- can we agree on that?
+21 MR. KATYAL: We do.
+22 JUSTICE GORSUCH: Okay.
+23 MR. KATYAL: And -- and so our point
+24 is labels are very good at deciding traveler's
+25 check, money order. And they're good not just
+Heritage Reporting CorporationOfficial
+23
+1 for courts.
+2 JUSTICE GORSUCH: Well, I guess I'm
+3 wondering why -- why they're good for some
+4 purposes but not others?
+5 MR. KATYAL: Because I think it
+6 reflects, Justice Gorsuch --
+7 JUSTICE GORSUCH: I mean, you like --
+8 you don't like labels when it comes to this
+9 little -- this little exception here.
+10 MR. KATYAL: Oh, it's not that we
+11 don't like them, Justice --
+12 JUSTICE GORSUCH: But -- well, but if
+13 I -- if I might just finish, I mean, then -- and
+14 then have at it, okay? But you -- you admit
+15 that labels can control for some purposes, but
+16 yet you do ask us to place quite a lot of weight
+17 on "money order" versus "traveler's check"
+18 otherwise. And -- and so I'm just -- I'm -- I'm
+19 -- I'm stuck there. So help me out.
+20 MR. KATYAL: Yeah. So we -- we think
+21 the labels matter because they matter -- they're
+22 not just for courts. They're, after all, for
+23 banks and consumers. Banks have to figure out,
+24 you know, what is this product and where do --
+25 which state do we escheat it to? And labels are
+Heritage Reporting CorporationOfficial
+24
+1 a really good way to do that, as opposed to some
+2 convoluted eight-factor test where you've got to
+3 have law professors testifying about experts,
+4 about what -- whether something is a money order
+5 or not.
+6 So we think labels in general work,
+7 but Congress was concerned about more than that.
+8 And that's what I was saying to Justice Thomas.
+9 And so that's what "other similar written
+10 instrument" does. It's labels for the first
+11 part but not for the second part.
+12 And I think Congress in 1974 had
+13 examples of statutes in which other products
+14 were enumerated. So our brief cites, for
+15 example, 26 U.S.C. 6311, which is a 1970 statute
+16 which refers to "any certified, treasurer's, or
+17 cashier's check ... or any money order," I think
+18 demonstrating that Congress knew -- thought
+19 money orders were distinct from these other
+20 products.
+21 If you adopt my friend's
+22 interpretation, cashier's checks, certified
+23 checks, all of those become money orders because
+24 they are all instrupents -- instruments that
+25 prepay money. And as the American Bar
+Heritage Reporting CorporationOfficial
+25
+1 Association brief says, that's going to be a
+2 disaster because millions and millions of
+3 dollars, and there's a little -- at least
+4 there's some hyperbole -- or not hyperbole.
+5 There's -- there's some subjective
+6 quantification of this in the ABA brief saying
+7 that that is incredibly damaging and
+8 destabilizing to the financial sector because
+9 this has all been around and done a certain way
+10 since 1974.
+11 JUSTICE KAGAN: So I -- I guess I
+12 didn't understand until argument that you're
+13 saying that "money orders" is an only label
+14 test, is that right? And then the "similar
+15 instruments" is where the -- the characteristics
+16 of money orders come in, is that right?
+17 MR. KATYAL: Correct.
+18 JUSTICE KAGAN: And then what are the
+19 characteristics of money orders that you're
+20 pointing to? Like, what -- what -- what -- what
+21 does some other non-labeled instrument have to
+22 comply with in order to be determined to be a
+23 "similar instrument"?
+24 MR. KATYAL: Well, I do think it would
+25 be a transfer of information in which address
+Heritage Reporting CorporationOfficial
+26
+1 information isn't being collected and a
+2 small-denomination kind of instrument. And so,
+3 here, there's a wide gulf, however you define
+4 "similar," between the two disputed instruments
+5 and -- and agent checks -- excuse me -- and
+6 teller's checks -- traveler's checks and money
+7 orders.
+8 And the three things are, number one,
+9 in order to get a disputed instrument, you've
+10 got to go to a bank to get it. Second, you will
+11 have a bank account when you do so. And, third,
+12 it's got to be signed by a bank employee.
+13 And that's a pretty important
+14 distinction because, when something is signed by
+15 a bank employee, it makes the bank liable for
+16 the piece of paper, as opposed to money orders,
+17 which are limited recourse documents and you
+18 can't sue the issuer of a money order the way
+19 you can the two disputed instruments.
+20 So we think those are three hallmarks.
+21 Does that solve the --
+22 JUSTICE KAGAN: So, I mean, it feels
+23 as though you're picking things that, you know,
+24 as you should, that -- that -- that make you
+25 succeed in the case. But I could pick three
+Heritage Reporting CorporationOfficial
+27
+1 other things that make Arkansas succeed.
+2 MR. KATYAL: We're -- we're not just
+3 randomly picking these, Justice Kagan. It goes
+4 to, I think, Justice Jackson's question to me
+5 earlier, which is the purpose behind this, which
+6 is the address information isn't being
+7 collected. It's burdensome to do so. That's a
+8 statutory finding. And the equity windfall
+9 considerations.
+10 Here, for these disputed instruments,
+11 the states have the easy fix available to them
+12 that wasn't available to them in 1974 because,
+13 if states did what this Court invited them to do
+14 in 1972 in response to the windfall concern, it
+15 would increase the cost of those instruments and
+16 be problematic. And so that's why Congress
+17 said, uh-uh, we're heading it off for those
+18 instruments but not for these.
+19 And these factors that I'm referring
+20 to you are relevant to that because they show
+21 address information is being collected for the
+22 disputed instruments, not being collected for
+23 traveler's checks and money orders. That's the
+24 key difference between the two.
+25 JUSTICE SOTOMAYOR: Counsel, the --
+Heritage Reporting CorporationOfficial
+28
+1 MoneyGram treats one of its other official
+2 checks, the agent check money orders, as subject
+3 to the FDA. Justice Thomas asked you what
+4 happens if they remove that tomorrow.
+5 Under your test that you just
+6 articulated to Justice Kagan, then it would go
+7 back to not being a money order?
+8 MR. KATYAL: No, Your Honor. If I
+9 understand your question, it's the same
+10 instrument. It just doesn't have the label
+11 "money order" on it.
+12 JUSTICE SOTOMAYOR: They take it off.
+13 MR. KATYAL: Yeah. If they take it
+14 off --
+15 JUSTICE SOTOMAYOR: It's issued by --
+16 MR. KATYAL: -- that is an other --
+17 JUSTICE SOTOMAYOR: -- it's issued by
+18 a bank --
+19 MR. KATYAL: Right.
+20 JUSTICE SOTOMAYOR: -- not a retail
+21 operator. They do collect information, don't
+22 they?
+23 MR. KATYAL: For agent check money
+24 orders, I think some information is collected,
+25 yes.
+Heritage Reporting CorporationOfficial
+29
+1 JUSTICE SOTOMAYOR: All right. And
+2 what was your third criteria?
+3 MR. KATYAL: That -- that you have to
+4 have an account at the bank and --
+5 JUSTICE SOTOMAYOR: And they have an
+6 account at the bank.
+7 MR. KATYAL: -- and they may have an
+8 account at the bank.
+9 JUSTICE SOTOMAYOR: So --
+10 MR. KATYAL: So, with respect to that,
+11 you know, limited universe, we do -- even there,
+12 I guess I should say, let's look at that,
+13 Justice Sotomayor. It's at page 230 and 231, is
+14 an agent check money order.
+15 And so what it says on the front is
+16 that -- there's a picture of it, and it says on
+17 the front that -- you know, that it's labeled
+18 agent check money order. And then, on the back,
+19 it says, if the instrument is designated on its
+20 face as a money order, then the following
+21 applies, and it says it's limited recourse.
+22 Now, if you strike that off from the
+23 back, then you might be -- then I think you are
+24 fundamentally changing the nature of the
+25 document because you're making it now not a
+Heritage Reporting CorporationOfficial
+30
+1 limited recourse document; you're making it
+2 something else.
+3 And so that actually is a substantive
+4 change. I think it's a -- and the reason --
+5 that's why I'm going through this, because it's
+6 different very much --
+7 JUSTICE SOTOMAYOR: That's not the
+8 example I gave.
+9 MR. KATYAL: -- than Justice Thomas's
+10 hypothetical. So our view on this is generally
+11 labels will control. In some circumstances, if
+12 you have the very same product, just not the
+13 label, then that is an other similar instrument.
+14 But, for your question, which is
+15 actually changing the meaning of the document
+16 itself, then that isn't one that is an other
+17 similar written instrument.
+18 CHIEF JUSTICE ROBERTS: Thank you,
+19 counsel.
+20 Justice Thomas, anything further?
+21 JUSTICE THOMAS: No questions.
+22 CHIEF JUSTICE ROBERTS: Justice Alito?
+23 JUSTICE ALITO: You say that a
+24 third-party bank check is a check that is
+25 effective on the signature of a bank officer.
+Heritage Reporting CorporationOfficial
+31
+1 But isn't it the bank's liability and not the
+2 signature that makes an instrument a bank check?
+3 The signature merely indicates that the bank is
+4 liable?
+5 MR. KATYAL: No, Your Honor, I think
+6 the signature is the thing that does make the
+7 bank check actually effective. And we point you
+8 to Munn's, which we cite to in our brief, for
+9 exactly that. And I think your question's
+10 really important because Judge Leval said, well,
+11 I'm going to look to the Hunt Commission to
+12 determine what a third-party bank check is, and
+13 a third-party bank check, he says, according to
+14 the Hunt Commission, is a personal check.
+15 But, actually, the Hunt Commission
+16 says that's just one example. And, notably,
+17 really importantly, at page 41 of our brief, we
+18 say, if you go on and read what the Hunt
+19 Commission says, it actually says teller's
+20 checks are third-party bank payment systems.
+21 So the Hunt Commission invocation
+22 boomerangs on them. It underscores that the
+23 types of disputed instruments here, these
+24 teller's checks, are third-party bank checks.
+25 Congress was worried about these larger-dollar
+Heritage Reporting CorporationOfficial
+32
+1 products, like teller's checks, and they
+2 specifically exempted them.
+3 And so even if you didn't buy anything
+4 that I've been saying for the last 25 minutes
+5 about "we're not falling within the FDA at all,"
+6 we would fall within the third-party bank
+7 exception. We don't think you have to get
+8 there, of course.
+9 JUSTICE ALITO: Whether a bank
+10 employee signs the check or not is a formality.
+11 What -- what is the effect of that?
+12 MR. KATYAL: We -- we think it's more
+13 than a formality. We think that is actually the
+14 relevant characteristic that Munn's, Wallach,
+15 and Lawrence all say that makes something a bank
+16 check, you look to that.
+17 Now, admittedly, it's not the clearest
+18 of phrases, but we think that's the one that
+19 gives it some meaning and reflects Congress's
+20 1974 knowledge. Teller's checks were around in
+21 '74, and yet Congress didn't enumerate them in
+22 2503, much more narrow statute than the 1966
+23 one.
+24 JUSTICE ALITO: Thank you.
+25 CHIEF JUSTICE ROBERTS: Justice
+Heritage Reporting CorporationOfficial
+33
+1 Sotomayor?
+2 Justice Gorsuch?
+3 JUSTICE GORSUCH: Thank you.
+4 JUSTICE KAVANAUGH: Just to pick up
+5 quickly on Justice Kagan's earlier question on
+6 "similar written instrument," that's kind of a
+7 statutory version -- version of ejusdem generis,
+8 I suppose, and we're always trying to figure out
+9 what the key features are.
+10 Why aren't the key features here
+11 prepaid money transmission product, doesn't show
+12 last known address of purchaser, and the
+13 windfall purpose is implicated? So you have
+14 arguments, but why aren't those the better
+15 features to focus on when we're figuring out
+16 what "similar" means here?
+17 MR. KATYAL: Be -- because, if you do
+18 that, you blow up the statute to include
+19 cashier's checks, certified checks, and all
+20 sorts of stuff that Congress knew exactly how to
+21 name or to write open-ended statutes and didn't.
+22 And so, to us, you know, going back to
+23 the statutory interpretation question, it's like
+24 a statute that said, you know, rubber bands,
+25 paper clips, or other similar items.
+Heritage Reporting CorporationOfficial
+34
+1 JUSTICE KAVANAUGH: Mm-hmm.
+2 MR. KATYAL: You know, so yes, could
+3 you find some commonalities? Sure, but I don't
+4 think it means other -- all office products,
+5 like desk chairs or paper or things like that.
+6 You're looking for something more
+7 narrow. And as I said to Justice Jackson, the
+8 statutory findings give you what Congress was
+9 thinking about here in terms of address
+10 collection and the burdens.
+11 JUSTICE KAVANAUGH: Thank you.
+12 CHIEF JUSTICE ROBERTS: Justice
+13 Barrett?
+14 JUSTICE BARRETT: No.
+15 CHIEF JUSTICE ROBERTS: Justice
+16 Jackson?
+17 JUSTICE JACKSON: Yes, just one
+18 question that is confusing me.
+19 You keep suggesting that larger-dollar
+20 products are exempted from the statute, things
+21 that would be covered by -- like the disputed
+22 instruments, they deal with larger dollar and
+23 money order, smaller dollar.
+24 What I don't understand is why that's
+25 the case. I've heard you said -- say that there
+Heritage Reporting CorporationOfficial
+35
+1 would be an incentive to include address
+2 information for larger-dollar products, but if
+3 that's true, then, under the common law, we
+4 wouldn't have the inequitable escheatment
+5 problem.
+6 So the fact that the states are
+7 fighting about these disputed instruments
+8 indicates to me that the disputed instruments
+9 don't have addresses on them, which undermines
+10 your argument that larger-dollar products would
+11 necessarily carry with them the address
+12 information.
+13 Do you understand what I'm saying?
+14 MR. KATYAL: Absolutely, Justice
+15 Jackson.
+16 JUSTICE JACKSON: Yes.
+17 MR. KATYAL: So the record is clear on
+18 this, and I don't think my friends on --
+19 disagree, that for the disputed instruments,
+20 address and payee information is being found.
+21 That's our appendix at page 599. It's the ABA
+22 brief at page 22. Our appendix also at page 400
+23 and quoting even from 1956 the ABA report.
+24 The reason why it's being collected
+25 has everything to do with money laundering
+Heritage Reporting CorporationOfficial
+36
+1 requirements and the like. 31 C.F.R. 1010
+2 requires collection of this information for
+3 anything over $3,000.
+4 The informational hiccup is the
+5 information is being collected, it's just not
+6 being transmitted to MoneyGram, and that's where
+7 the states have a simple statutory fix. They're
+8 asking you to do their hard work for them.
+9 And if they did that statutory fix, it
+10 would be prospective. It wouldn't jeopardize
+11 everything that's happened since 1974 in which
+12 state -- a state like Delaware has collected,
+13 you know, money under a certain set of
+14 escheatment rules and they want to unwind all of
+15 that.
+16 And that would be very destabilizing
+17 not just for the products at issue here but
+18 certified checks, cashier's checks, as the ABA
+19 says.
+20 JUSTICE JACKSON: Thank you.
+21 CHIEF JUSTICE ROBERTS: Thank you,
+22 counsel.
+23 Mr. Bronni.
+24
+25
+Heritage Reporting CorporationOfficial
+37
+1 ORAL ARGUMENT OF NICHOLAS J. BRONNI
+2 ON BEHALF OF ARKANSAS, ET AL.
+3 MR. BRONNI: Mr. Chief Justice, and

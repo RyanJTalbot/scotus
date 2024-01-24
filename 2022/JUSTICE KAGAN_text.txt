@@ -8,10 +8,41 @@ comply with in order to be determined to be a "similar instrument"?
 MR. KATYAL: Well, I do think it would
 be a transfer of information in which address
 Heritage Reporting Corporation
+1
+2   3   4 5   6   7   8   9
+10  11  12 13  14  15  16 17  18  19  20  21  22          23 24  25  26 Official
+information isn't being collected and a
+small-denomination kind of instrument. And so,
+here, there's a wide gulf, however you define
+"similar," between the two disputed instruments
+and -- and agent checks -- excuse me -- and
+teller's checks -- traveler's checks and money orders.
+And the three things are, number one,
+in order to get a disputed instrument, you've got to go to a bank to get it. Second, you will
+have a bank account when you do so.  And, third, it's got to be signed by a bank employee.
+And that's a pretty important
+distinction because, when something is signed by a bank employee, it makes the bank liable for the piece of paper, as opposed to money orders, which are limited recourse documents and you can't sue the issuer of a money order the way you can the two disputed instruments.
+So we think those are three hallmarks.
+Does that solve the --
 JUSTICE KAGAN: So, I mean, it feels
 as though you're picking things that, you know, as you should, that -- that -- that make you
 succeed in the case.  But I could pick three
 Heritage Reporting Corporation
+1
+2   3 4 5   6 7   8   9
+10  11  12  13  14 15  16  17  18  19  20 21  22  23  24  25  27 Official
+other things that make Arkansas succeed.
+MR. KATYAL: We're -- we're not just
+randomly picking these, Justice Kagan. It goes to, I think, Justice Jackson's question to me
+earlier, which is the purpose behind this, which
+is the address information isn't being
+collected.  It's burdensome to do so. That's a statutory finding.  And the equity windfall considerations.
+Here, for these disputed instruments,
+the states have the easy fix available to them that wasn't available to them in 1974 because, if states did what this Court invited them to do in 1972 in response to the windfall concern, it would increase the cost of those instruments and be problematic.  And so that's why Congress said, uh- uh, we're heading it off for those
+instruments but not for these.
+And these factors that I'm referring
+to you are relevant to that because they show address information is being collected for the disputed instruments, not being collected for traveler's checks and money orders.  That' s the
+key difference between the two.
 JUSTICE KAGAN:  So does that mean we
 determine cashier's checks one by one by one
 depending on whether it's prepaid?
@@ -24,6 +55,19 @@ as, Justice Thomas, your question reflects, you know, so there are instruments i
 We would not in ordinary parlance call
 a cashier's check a money order because it is a unique instrument in that it's issued by the
 Heritage Reporting Corporation
+1
+2   3   4   5   6 7 8   9
+10 11  12  13  14  15  16  17  18  19  20 21  22  23  24  25  41 Official
+same bank, drawn on that same bank, which makes
+it a uniqu ely secure instrument that is
+different.
+So, in -- in ordinary English, it's a
+well-known instrument, as Delaware agrees, as
+the American Bankers Association agrees, and that's a justification for carving it out.
+And then, finally, another reason why
+we would think it wouldn't be covered is because, in 2501, when Congress is describing money orders as a class of instruments, it describes them as a class of instruments for which addresses are not ordinarily kept as a business practice.
+That does not describe cashier's
+checks in 1974 and it doesn't describe them today.
 JUSTICE KAGAN:  If "money order" is as
 broad as you're saying it is, what's left for "similar instrument"?
 MR. BRONNI: I -- I think, Your Honor,
@@ -31,6 +75,11 @@ when --when Congress uses phrases like "money
 orders," "traveler's checks" and then follows it by a catch -all, I think what that oftentimes
 reflects, as this Court has said, is Congress is -- is concerned with covering the field and not leaving any loopholes.  So it may very well be
 Heritage Reporting Corporation
+1
+2   3   4   5   6   7   8 9
+10  11  12  13  14  15  16  17  18  19  20  21  22  23  24  25  50 Official
+that in 1974 there wasn't a product that existed
+that wouldn't meet the core definition of what a money order is.
 JUSTICE KAGAN:  It was just like a "in
 case"?
 MR. BRONNI: I -- I -- I think --
@@ -44,6 +93,47 @@ JUSTICE KAGAN:  Yeah, but it might be,
 right? I mean, I think that this is the -- the
 strength of Mr. Katyal's argument, that they were thinking of something called traveler's checks, they had used traveler's checks, and they were thinking of something called money orders, like the prototypical things that the Chief Justice was talking about, they had seen money orders, they had used money orders, and then they said, "you know, maybe there's some stuff that functions in the same way that does pretty much the same thing, that has similar
 Heritage Reporting Corporation
+1
+2   3   4   5 6 7 8 9
+10  11  12  13  14  15  16  17 18  19  20  21 22 23 24  25 51Official
+characteristics, whatever the relevant characteristics are, so we'll put that third thing in, you know, other similar things."
+So that seems to me a --a more l ikely
+way of drafting. It's like you have a particular product in mind and another particular product in mind, and then you realize that there are products you don't know about that might function in the same way.
+MR. BRONNI: And that --that is -- we
+don't disagree that that's a possibility for what happened here.  I just think that the way Congress used the -- when it used the term
+"money order" in '73, yes, we might now today typically think of -- of an instrument that's
+sold at a retailer.  But the fact is Delaware's own sources describe money orders as instruments sold at financial and non- financial institutions
+and that did not have low- dollar limits.
+So I -- I think they are money orders,
+as Judge Leval said, under any common ordinary understanding, but I agree that, at a minimum, they are certainly similar written instruments because they operate precisely like the instruments that we all agree are money orders.
+Heritage Reporting Corporation
+1
+2 3   4   5   6   7   8 9
+10     11  12 13  14  15  16  17 18  19  20  21  22  23  24  25  52Official
+And if I can address briefly one of
+the labeling points that I think the -- the
+other side made, that -- that they pointed out,
+you know, people -- generally, things are labeled consistent with what you would think they would be. And I think that's right.  You know, most -- they can't -- they don't identify
+another product sold by another institution that
+works like these.
+And that's because this is basically a
+product where money order had a business model of selling money orders, and it didn't want to alter the structure of how it does things.  So it -- it put a different label on it and sold it
+somewhere else in order to appeal to a different end of the market without fundamentally altering the product itself because they still operate exactly like money orders.
+Just like a retail money order, you --
+you go in, you -- you prepay for it, you get a
+written instrument in response.  The -- the
+selling financial institution is merely an agent of MoneyGram.  It's not a party to the instrument.  It's an agent of MoneyGram.  And the -- the day after a transaction takes place,
+Heritage Reporting Corporation
+1
+2   3   4   5 6   7 8 9
+10  11  12  13  14  15 16  17    18  19  20  21  22 23  24  25  53Official
+it forwards the money to MoneyGram.  The selling
+financial institution does.
+At that point, whether we're talking
+about their so -called teller's checks or agent
+checks, that selling financial institution is
+entirely out of the transaction. It has no more
+role. That is the same role that Western Union played on classic money orders in the 1970s.
 JUSTICE KAGAN:  You seem to be trying
 very hard to exclude various kinds of products. Why is that?  Why not just say, okay, they're all included, that's good?
 MR. BRONNI: Well, I --I think, Your
@@ -53,7 +143,41 @@ money orders that had understandings in 1974 that we can rely on.
 And by using that terminology and
 using those two instruments as an example, it --
 Heritage Reporting Corporation
+1
+2 3   4 5   6   7   8 9
+10  11  12 13 14  15 16      17  18 19 20  21 22  23  24  25 57Official
+other similar written instruments must share
+some of those core characteristics of what those
+two instruments share.  So I think Congress
+decided to limit it.
+I -- I -- one point of agreement is I
+think there's -- it -- it's probably true, and
+the American Bankers Association says this as
+well, if Congress wanted to include cashier's
+checks, classic cashier's checks, it probably
+would have said that.  It knew what that instrument was.  They were well -known
+instruments at the time, but they -- they didn't present the windfall problem because, again, addresses were kept typically for cashier's checks just as they are today.
 JUSTICE KAGAN:  I --I guess they
 failed in that endeavor to make things doubly clear.
 (Laughter.)
 Heritage Reporting Corporation
+1
+2 3   4 5   6   7   8 9
+10 11  12  13  14  15  16  1718 19  20  21  22  23  24  25  67Official
+MR. BRONNI: I -- well, I -- so the
+generous version of this, I think, Your Honor,
+is that -- that the way the -- the phraseology
+was just sort of used at the time, you know,
+we're -- we're sitting here 50 years on and, you know, banking regulators have their own terminology, but the --the thing that I would
+emphasize is that, you know, third- party payment
+was, in fact, as -- as pointed out in Arkansas's
+appendix at 177, so common that The Washington Post said that a third -party payment today means
+essentially a checking account.
+So that was ordinary phraseology
+that --that maybe has gone by the wayside, but
+it is phraseology that was used at the time.
+Unless there are --JUSTICE ALITO:  Your argument is that
+in 1974 everybody would have known what a third-party bank check means? I actually do
+remember 1974.
+(Laughter.) MR. BRONNI: I think banking
+regulators might have known what it meant. Maybe not ordinary people.  But --

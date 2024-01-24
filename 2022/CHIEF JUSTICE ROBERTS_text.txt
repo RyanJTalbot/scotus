@@ -11,6 +11,33 @@ The question today is whether two
 products, MoneyGram agent checks and MoneyGram teller's checks, fall within that exemption. For many years, the defendant states answered that question "no."  However, after engaging some creative consultants, they changed their mind.
 They were right the first time for
 Heritage Reporting Corporation
+1
+2 3   4   5   6 7 8 9
+10  11 12  13  14  15 16  17  18  19        20  21  22  23  24  25  5Official
+four separate reasons.  First, when Congress adopted that language in 1974, the term "money
+order" referred to specific commercial products labeled "money order" and typically sold to unbanked consumers to pay small debts.  Neither
+of those apply to the two disputed instruments here. They're not labeled "money order," and they are sold to consumers with bank accounts who are transferring larger sums of money.
+Second, the FDA was a surgical fix to
+this Court's 1972 decision with a key purpose behind it, to prevent the price of small- dollar
+instruments from increasing drew to --due to
+address collection requirements that states might adopt in reaction to this Court's 1972 decision.  That rationale does not apply here, and the two instruments are outside of the FDA altogether.
+Third, even if you thought these
+products were within the FDA, the two instruments here fall within the third- party
+bank check exception.  Like all bank checks, they are signed by bank employees, not purchasers.
+And, fourth, while we believe that our
+Heritage Reporting Corporation
+1
+2 3 4 5   6   7 8   9
+10  11  12  13   14  15 16  17             18  19  20 21  22  23  24    25 6Official
+reading is the best reading of the FDA's text,
+structure, and purpose, we don't deny one could read the statute differently, but importantly, if you found things in equipoise, two things
+would independently break any tie for us.
+One is the doctrine of reading
+statutes to avoid derogation of the common law,
+and the other is this Court's repeated emphasis on the need for bright -line rules and
+predictability in this space.
+The defendants' interpretation would
+upend all that, as their own amici acknowledge. Our view of the statute, by contrast, is predictable, reflects longstanding practice, and provides a bright line for the escheatment of financial products in the future.
 CHIEF JUSTICE ROBERTS: Mr. --
 CHIEF JUSTICE ROBERTS: I'm sorry, go
 ahead.
@@ -24,23 +51,105 @@ unfortunately, the record I don't believe gives us any quantification of that. W
 CHIEF JUSTICE ROBERTS: Yeah, but the
 question there I guess is how many of them there
 Heritage Reporting Corporation
+1
+2   3   4   5   6   7   8   9
+10  11 12  13  14  15  16  17  18  19  20  21  22 23  24  25  20Official
+are.
+MR. KATYAL: Correct.  And I -- we
+don't have information about that.  I think Congress wasn't concerned as much with overall dollars as they were with the small denominations and the fact that address requirements would impose a much bigger burden compared to the benefit you'd get, whereas here, you know, I think with -- for these things,
+teller's checks existed in 1974. Bank checks and, you know, agent checks existed just by a different name in 1974.
+Congress pointedly didn't enumerate
+any of that in the statute.  They used, to use Justice Gorsuch's convoluted --phrase from the
+first argument, convoluted.
+(Laughter.) MR. KATYAL: Sorry, Justice.  You --
+you called -- you called Congress's action in the last argument "convoluted."  And I think that's right here, that if -- if their argument
+is right, Congress chose a really weird way of going about it.
 CHIEF JUSTICE ROBERTS: Thank you,
 counsel.
+Justice Thomas, anything further? JUSTICE THOMAS:  No questions. CHIEF JUSTICE ROBERTS:  Justice Alito? JUSTICE ALITO:  You say that a
+third-party bank check is a check that is
+effective on the signature of a bank officer.
+Heritage Reporting Corporation
+1
+2 3 4   5   6   7   8 9
+10  11  12  13  14  15  16  17 18 19 20  21  22  23  24  25  31 Official
+But isn't it the bank's liability and not the signature that makes an instrument a bank check? The signature merely indicates that the bank is
+liable?
+MR. KATYAL: No, Your Honor, I think
+the signat ure is the thing that does make the
+bank check actually effective.  And we point you
+to Munn's, which we cite to in our brief, for exactly that. And I think your question's really important because Judge Leval said, well, I'm going to look to the Hunt Commission to determine what a third -party bank check is, and
+a third- party bank check, he says, according to
+the Hunt Commission, is a personal check.
+But, actually, the Hunt Commission
+says that's just one example.  And, notably, really importantly, at page 41 of our brief, we say, if you go on and read what the Hunt Commission says, it actually says teller's checks are third -party bank payment systems.
+So the Hunt Commission invocation
+boomerangs on them.  It underscores that the types of disputed instruments here, these teller's checks, are third -party bank checks.
+Congress was worried about these larger -dollar
+Heritage Reporting Corporation
+1
+2   3   4   5 6 7   8   9
+10 11  12  13  14  15 16  17  18 19  20 21  22  23  24  25  32 Official
+products, like teller's checks, and they
+specifically exempted them.
+And so even if you didn't buy anything
+that I've been saying for the last 25 minutes
+about "we're not falling within the FDA at all," we would fall within the third -party bank
+exception.  We don't think you have to get there, of course.
 CHIEF JUSTICE ROBERTS:  Justice
 Heritage Reporting Corporation
-JUSTICE KAVANAUGH:  Thank you. CHIEF JUSTICE ROBERTS: Justice
-Barrett?
-JUSTICE BARRETT:  No. CHIEF JUSTICE ROBERTS:  Justice
-Jackson?
-JUSTICE JACKSON:  Thank you. CHIEF JUSTICE ROBERTS: Thank you,
-counsel.
-Mr. Bronni.
+1
+2   3   4   5 6 7   8 9
+10  11
+12  13  14  15 16  17  18  19  20 21  22  23  24 25  33Official
+Sotomayor?
+Justice Gorsuch? JUSTICE GORSUCH:  Thank you. JUSTICE KAVANAUGH:  Just to pick up
+quickly on Justice Kagan's earlier question on "similar written instrument," that's kind of a
+statutory version -- version of ejusdem generis,
+I suppose, and we're always trying to figure out
+what the key features are.
+Why aren't the key features here
+prepaid money transmission product, doesn't show last known address of purchaser, and the windfall purpose is implicated?  So you have arguments, but why aren't those the better features to focus on when we're figuring out what "similar" means here?
+MR. KATYAL: Be -- because, if you do
+that, you blow up the statute to include cashier's checks, certified checks, and all sorts of stuff that Congress knew exactly how to name or to write open- ended statutes and didn't.
+And so, to us, you know, goin g back to
+the statutory interpretation question, it's like a statute that said, you know, rubber bands, paper clips, or other similar items.
 Heritage Reporting Corporation
+1
+2   3   4   5 6   7   8   9
+10  11  12           13  14  15  16  17  18  19  20  21  22 23  24  25  34Official
 CHIEF JUSTICE ROBERTS: Well, but
 MoneyGram can -- can --you can require
 MoneyGram to ask for that information.  I mean ,
 that would -- and that would solve your problem just like that because just like with respect to the others that you say have to be covered and keep the existing or keep the address and purchaser information, MoneyGram would, and then
 Heritage Reporting Corporation
+1
+2   3   4 5   6 7 8 9
+10  11  12  13  14  15  16 17 18  19  20  21  22  23  24  25 43 Official
+all of that stuff would escheat to your state
+rather than Delaware.
+MR. BRONNI: I think, Your Honor, that
+the reason why our states have -- have not
+necessarily done that is because I think
+Congress really when it passed this statute put its thumb on the scale and suggested that keeping that kind of information and having to
+maintain that information, which my friend on
+the other side admitted would be a burden, it --
+it -- Congress decided that was an unnecessary
+burden.
+Now Delaware suggests it would only be
+an unnecessary burden for low- dollar
+instruments.  But that's not actually what Congress said. What my friend on the other side is referring to are things like floor statements where certain members of Congress expressed a concern that --that by requiring
+address- keeping you could affect the utility of
+these instruments by driving up their cost.  And there are floo r statements that reflect that for
+low-dollar instruments.
+But what Congress actually said, all
+of Congress in 2501 in the findings of facts,
+Heritage Reporting Corporation
+1
+2 3   4   5   6   7   8 9
+10  11  12  13  14  15  16  17  18  19  20  21  22  23  24  25  44 Official
+was not that. Instead, it said address collection and maintenance would be an
+additional burden that is not justified because most of these instruments are -- are purchased in one's home state.  And that --
 CHIEF JUSTICE ROBERTS: Well, just to
 be clear, there's nothing in the law that
 prevents you from requiring MoneyGram to ask for
@@ -58,6 +167,30 @@ of marketing strategy?
 MR. BRONNI: Yes, Your Honor. CHIEF JUSTICE ROBERTS: But your
 friend points out that money orders and
 Heritage Reporting Corporation
+1
+2   3   4 5   6   7   8   9
+10  11  12  13  14  15  16  17  18  19  20  21  22  23 24  25  45Official
+traveler's checks, on the one hand, are low value, high volume, purchased anonymously.
+On the other hand, the agent and
+teller's checks are high value or at least not
+limited generally.  They're not anonymous. They're drawn on an existing bank account.  And they're signed by the bank.
+Now that seems to be very different
+than just a marketing strategy.
+MR. BRONNI: So, Your Honor, I --I
+think what Delaware has described there when it's describing money orders is really one segment of the money order market.  I don't think that it's accurately described the money order market certainly as it existed in 1974.
+So Delaware's own sources that are
+reproduced in the appendix, for instance, t he
+American Bankers Association report on money orders from the late 1950s or the Compton's Encyclopedia, which is also reproduced in their appendix, they do discuss money orders, yes, as a product that was frequently sold in low- dollar
+amounts at retailers oftentimes to unbanked customers.  Although, again, low- dollar amounts
+and things like that, there is some quibblings
+Heritage Reporting Corporation
+1
+2 3   4 5 6   7   8   9
+10  11  12  13  14 15  16 17  18  19  20  21 22  23  24  25  46 Official
+over that because, as Judge Leval pointed out, going back to 1939, Western Union, in fact, sold
+money order products denominated up to
+approximately $3500, which, if we adjust for inflation, is about $25,000 today, so hardly a
+low-dollar instrument.
 CHIEF JUSTICE ROBERTS: Well --MR. BRONNI: But that --
 CHIEF JUSTICE ROBERTS: -- what was
 the -- what was the value of the -- typical
@@ -73,6 +206,35 @@ products that we are talking about here today, correct, did not exist in 1974.
 But, if I can return to the -- the
 distinction about the category of money orders for a moment, they describe them again -- their
 Heritage Reporting Corporation
+1
+2   3   4 5   6 7   8   9
+10 11  12 13  14  15  16  17  18  19  20  21  22  23 24  25  47Official
+sources do describe them oftentimes as low -- low-dollar instruments.  But those same sources
+also describe money orders as instruments that
+were also sold at financial institutions in the
+1970s without those low- dollar limits and
+obviously weren't aimed primarily at unbanked
+customers.
+So their -- their description of the
+category of what constituted a money order in
+1974 is simply not accurate even on their own sources.  Yes, they describe one segment of the market, but that's not the entirety of the market.
+Congress did not say personal money
+orders or low- dollar money orders.  Congress
+said money orders.  And that category in 1974 included --instruments sold at financial
+institutions, and today the agent check money order, which operates precisely like the instruments at issue here yet is only sold at financial institutions in high -dollar amounts,
+primarily to banked customers, they admit that's a money order. But it lacks all of the things that they say define what a money order is, except the label.
+Heritage Reporting Corporation
+1
+2   3 4 5   6   7   8 9
+10  11  12  13  14  15  16  17  18  19  20  21  22  23    24  25 --48Official
+So this was Justice Thomas's question.
+If you -- their argument is essentially, if you
+take the label off, it's no longer a money order, even if you change nothing about the
+instrument.  So a -- a good example of this
+would be the Western Union example.  If Western Union tomorrow made a decision that it was going
+to relabel its Western Union money order as the
+"Western Gram," it would be Delaware's position
+that that's no longer a similar written instrument -- or that's no longer a money order.
 CHIEF JUSTICE ROBERTS: I --I --I
 guess I'm not quite sure I understand.  Do you disagree that the agent checks and the teller's checks are typically, generally, whatever, for significantly higher value than a traveler's check?
 MR. BRONNI: Just like the agent check
@@ -80,24 +242,83 @@ money order could be, Your Honor, because it doesn't have a limit.  So, yes, the
 CHIEF JUSTICE ROBERTS:  I -- okay.
 But that is suggesting that as a distinction.
 Heritage Reporting Corporation
+1
+2   3 4   5 6 7   8   9
+10  11  12  13  14  15  16  17  18  19  20  21  22  23 24    25  49 Official
+Do you disagree that the agent checks and the
+teller che cks are typically drawn on existing
+accounts while the traveler's checks are not?
+MR. BRONNI: Again, because they're
+bought at financial institutions, people will oftentimes buy them where they do their banking.
+I agree with that.  But their -- the "drawn on" language is --is not actually correct there.
+Instead, what you're doing is you're prepaying
+for an instrument.  You may deduct the money from your account, but it's a separate financial instrument.  So it's not like an -- an ordinary
+check, for instance, is drawn on your bank account.  These instruments are not drawn on anybody's bank account.
 CHIEF JUSTICE ROBERTS: The impression
 I got reading your arguments and your friend's argument is that nobody has much of an idea what a third- party bank check is.
 Is that -- is that a fair --
 Heritage Reporting Corporation
+1
+2   3   4   5   6 7 8 9
+10  11 12  13  14  15  16  17 18  19  20  21  22  23  24 25  63Official
+MR. BRONNI: That's fair, Your Honor.
+I -- I think that we're --
+(Laughter.)
+MR. BRONNI: -- we are -- we are,
+however, stuck with -- with two things. We have
+to at least try and figure out what the terminology could have meant using similar phraseology in the 1970s, and, you know, again,
+it --they've agreed that it has to at least be
+a bank check.  We're in agreement there. Something must at least be a bank check, and these don't meet that definition.
+But, in --in --in terms of what the
+entire phrase could have meant, again, you --this is another example where I think you've only been offered two realistic options based in the way similar phraseology was used in the 1970s, neither one of which would describe these instruments.
+So Delaware says that a -- that in the
+phrase third- party bank check, the third party
+refers to an outside issuer or payer.
+The problem with that is that that's
+not the way "third party" is used on a financial instrument.  It wasn't used that way in the
+Heritage Reporting Corporation
+1
+2   3   4   5   6 7   8   9
+10  11  12 13  14  15  16  17  18  19  20  21  22  23  24 25  64Official
+1970s. All the experts agreed on that.
+Instead, when -- when somebody
+referred to the third party on a check or third party in a financial instrument, that third-party reference was always a reference to
+a payee or the party that ultimately got paid on
+an instrument.
+So sometimes, for instance, it was
+used like in the twice endorsed check definition, where a third- party check is a
+common enough phrase then and today that it's actually defined in Black's Law Dictionary as a twice endorsed check.  So the third party on that instrument is the endorsee, the third party to the original transaction who is the -- the
+payee on that instrument.
+The other way the phrase third party
+and check got used in the 1970s was in the context of third -party payment services or
+third-party services, and there again, the
+reference was always to the party that ultimately got paid, the payee.
+So a third- party payment service, as
+the Hunt Commission explained, but it's not the only example, is a mechanism whereby a deposit
+Heritage Reporting Corporation
+1
+2   3   4 5   6   7 8   9
+10  11 12  13  14  15  16 17  18 19  20 21  22 23  24  25  65 Official
+intermediary transfers funds to a third -party
+payee, a third -party account holder upon the
+orders of the depositor.  So, again, there, the
+phraseology is used to reference the ultimate
+payee.
+It's never been used and Delaware
+doesn't cite a single source where it was used
+in the 1970s to refer to an outside issuer or processor.  And what that means is they've
+offered a definition that is no way anchored with the way the terminology was used in the 1970s.
 CHIEF JUSTICE ROBERTS: Thank you,
 Heritage Reporting Corporation
-JUSTICE SOTOMAYOR:  Thank you. CHIEF JUSTICE ROBERTS:  Justice Kagan?
-Heritage Reporting Corporation
-JUSTICE JACKSON:  Thank you. CHIEF JUSTICE ROBERTS: Thank you,
+1
+2   3   4   5   6 7 8   9
+10  11  12  13  14  15  16  17  18  19  20  21  22  23  24  25  68Official
 counsel.
-Rebuttal, Mr. Katyal? REBUTTAL ARGUMENT OF NEAL K. KATYAL
-ON BEHALF OF DELAWARE
-MR. KATYAL: Thank you, Mr. Chief
-Justice.  Five points.
-First, as the Chief Justice said, they
-can solve this problem easily by saying MoneyGram has to have the information.  The information's already being collected by the banks. The only question is closing that informational hi ccup. And that's a lot better,
-Justice Sotomayor, than the instrument -by-instrument litigation that will be
-Heritage Reporting Corporation
+Justice Thomas, anything further? JUSTICE THOMAS:  Nothing. CHIEF JUSTICE ROBERTS:  Justice Alito? JUSTICE SOTOMAYOR:  Do you think we do
+more harm or less harm if we take the Special Master's suggestion that we decide this case
+with --without adopting a firm definition of
+money order?
+MR. BRONNI: So I --I think --
 CHIEF JUSTICE ROBERTS: Thank you,
 counsel.  The case is submitted.
 (Whereupon, at 1:02 p.m., the case was

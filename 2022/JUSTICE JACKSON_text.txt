@@ -4,14 +4,93 @@ collection of address information.  If that was so, they certainly did a weird t
 I mean, the statute did not just say
 collect the information, which would have solved the problem directly.  The statute seemed to take into account the fact that there were going to be circumstances in which that information was not collected, and Congress appeared to be trying to override the common law with respect to what happened because it was really concerned about inequitable escheatment.
 Heritage Reporting Corporation
+1
+2 3   4   5   6 7   8   9
+10  11  12  13  14  15  16  17  18  19  20  21  22  23  24  25  11Official
+And so my question is, to what extent
+do these disputed instruments present that
+problem?  Because, if we believe that that's what Congress really cared about, then why would they have crafted a statute that excluded
+certain instruments that presented that same
+problem?
+MR. KATYAL: Yeah, Justice Jackson, we
+don't think that that windfall concern, that
+equity concern , applies to the two disputed
+instruments.  So Congress in '74 was worried about address collection requirements.  They said we want to head that off because that's going to increase the price of traveler's checks and money orders.  That's why they didn't write the statute that you were saying, which is to impose address requirements.
+The findings in 2501 say no, we want
+the reverse, because, if you --if states start
+doing that, it's going to increase the cost of those instruments.  And so that concern doesn't apply to the two disputed instruments here because the address information is already being collected.  And then, when you're concerned about the equity that still exists with respect
+Heritage Reporting Corporation
+1
+2 3   4   5   6   7 8   9
+10 11  12  13  14  15  16  17  18 19  20  21  22  23  24 25  12 Official
+to these two disputed instruments, because Delaware has them, not for all bank checks,
+obviously, Bank of Americas of the world and
+Citibanks are really the large escheators in this space.
+But, with respect to the two disputed
+instruments, to the extent that states,
+including my friend's states, if they're worried
+about the equity, they have the simplest and easiest fix in the world, which is to just require that the information, when you go in and
+buy a teller's check or an agent check is issued, it just has to be transmitted to MoneyGram.
+And if that happens, Justice Jackson,
+then you avoid this whole equity about state of incorporation because then the primary rule of the common law would apply, which is the creditor's last address.
 JUSTICE JACKSON:  You can only do that
 with respect to your own state, right?  I mean, every state would have to adopt that rule in order to solve the problem.  And Congress, it appears, wanted to solve the problem in a different way.
 Heritage Reporting Corporation
+1
+2   3 4 5 6   7   8   9
+10 11 12  13  14  15  16  17  18  19  20  21  22  23  24  25  13Official
+MR. KATYAL: So -- certainly, Congress
+could solve it nationally.  And this Court in --
+in Justice Thomas's opinion in Delaware invited Congress to do that with respect to the inequities and windfall that it said wasn't
+enough to -- to justify this Court departing from the common law.
+And then you're absolutely right,
+Justice, any state that is concerned about the inequity can pass a law. And I think it's probably a pretty easy law for them to pass because, quite honestly, they're just getting extra money.  And so it's up to them.
+What my friends are asking you to do
+is to basically break from the common law -- and
+because of their policy concern --and that is
+exactly what this Court has said every time, most recently in the Delaware case, that you don't do, and here is why it's so dangerous.
+My friend pitches this as a case about
+the secondary -- dueling secondary rules about place of incorporation versus principal place of business.  That's what happens if you don't have addresses.  But, if you adopt his interpretation, you're also blowing up the --
+Heritage Reporting Corporation
+1
+2   3   4   5   6 7  8   9
+10 11  12 13  14 15  16  17  18  19  20  21  22  23 24  25  14Official
+the primary rule.
+So the primary rule, there's a big
+dispute between -- a big -- or a big gulf
+between the FDA, this Act, which uses --which
+uses --which uses the -- the -- it moves away
+from the last creditor's address, which is the rule of the common law.
+And so --
 JUSTICE JACKSON:  And so -- and you're
 not reading that to be Congress's attempt, Congress's attempt to break from the common law? You're suggesting that what we do here is going to blow up the common law.  But I had understood that the statute itself was trying to set out a different set of parameters than what existed in the common law.
 MR. KATYAL: Oh, absolutely.  We don't
 doubt that they did that with respect to traveler's checks and money orders, but there's no indication that they went beyond that.  And we think you should read that narrowly because the entire reason they wanted to move away from the common law with respect to these two instruments is because of the inequity and the addresses not being collected, which would
 Heritage Reporting Corporation
+1
+2   3   4   5 6 7   8   9
+10  11  12  13 14 15  16  17 18  19  20 21  22  23  24 25 15 Official
+increase the cost of those items.
+Those don't apply.  Those policy
+rationales don't apply here.  And, notably, Justice Jackson, Congress in 1974 knew exactly
+how to write the statute that you're asking for to get rid of the common law for a broader set
+of instruments.
+If you look at our blue brief at page
+31, it quotes the 1966 Model Act, Uniform Act
+for the disposition of unclaimed property, and that text is "any sum ... on which a banking or financial organization or business association is directly liable, including, by way of illustration but not of limitation, CDs, drafts, money orders, and traveler's checks."
+Now the first part of that statute
+that I just read to you is exactly the language from 2503.  Indeed, Judge Leval below said it would be the most extreme coincidence that you'd use all of the same language from 1966 and the FDA.
+But what isn't in there?  Everything
+about by illustration, by -- by the -- the -- by
+way of illustration but not of limitation, the enumeration of other financial products, like
+Heritage Reporting Corporation
+1
+2   3 4   5   6   7   8   9
+10  11  12  13  14  15  16  17  18  19  20  21  22  23  24  25 16Official
+certificates of deposits and the like.
+And so Congress is telling you he re in
+this statute we mean traveler's checks, we mean
+money orders.  And, Justice Thomas, absolutely, we mean other similar written instruments.  But that can't be everything that is prepaid the way my friends would have it --
 JUSTICE JACKSON:  Yes, just one
 question that is confusing me.
 You keep suggesting that larger- dollar
@@ -20,18 +99,99 @@ instruments, they deal with larger dollar and money order, smaller dollar.
 What I don't understand is why that's
 the case.  I've heard you said -- say that there
 Heritage Reporting Corporation
+1
+2   3 4   5   6   7   8   9
+10  11 12  13  14  15  16  17  18  19  20  21 22  23 24  25  35Official
+would be an incentive to include address
+information for larger -dollar products, but if
+that's true, then, under the common law, we
+wouldn't have the inequitable escheatment problem.
+So the fact that the states are
+fighting about these disputed instruments indicates to me that the disputed instruments don't have addresses on them, which undermines
+your argument that larger- dollar products would
+necessarily carry with them the address information.
+Do you understand what I'm saying? MR. KATYAL: Absolutely, Justice
+Jackson.
 JUSTICE JACKSON:  Yes. MR. KATYAL: So the record is clear on
 this, and I don't think my friends on --
 disagree, that for the disputed instruments, address and payee information is being found. That's our appendix at page 599. It's the ABA brief at page 22.  Our appendix also at page 400 and quoting even from 1956 the ABA report.
 The reason why it's being collected
 has everything to do with money laundering
 Heritage Reporting Corporation
+1
+2 3   4   5 6   7   8 9
+10  11  12  13  14 15  16  17 18  19  20  21  22  23  242536 Official
+requirements and the like. 31 C.F.R. 1 010
+requires collection of this information for
+anything over $3,000.
+The informational hiccup is the
+information is being collected, it's just not
+being transmitted to MoneyGram, and that's where the states have a simple statutory fix. They're
+asking you to do their hard work for them.
+And if they did that statutory fix, it
+would be prospective.  It wouldn't jeopardize everything that's happened since 1974 in which state -- a state like Delaware has collected, you know, money under a certain set of escheatment rules and they want to unwind all of that.
+And that would be very destabilizing
+not just for the products at issue here but certified checks, cashier's checks, as the ABA says.
+JUSTICE JACKSON:  Thank you. CHIEF JUSTICE ROBERTS: Thank you,
+counsel.
+Mr. Bronni.
+Heritage Reporting Corporation
+1
+2   3   4   5   6   7   8   9
+10  11  12  13  14  15  16  17  18  19  20  21  22  23  24  25  37Official
+ORAL ARGUMENT OF NICHOLAS J. BRONNI
+ON BEHALF OF ARKANSAS, ET AL.
+MR. BRONNI: Mr. Chief Justice, and
+may it please the Court:
+This case presents the problem the FDA
+was enacted to solve.  In Pennsylvania versus New York, this Court c oncluded that unclaimed
+financial instruments escheat to a purchaser's state of residence or, if that's unknown, to an
+issuer's state of incorporation.
+Because issuers of certain financial
+instruments rarely kept purchaser addresses, that meant a windfall for an issuer's state of incorporation at the expense of its fellow states.
+Just two years later, Congress
+responded to that inequity by enacting the FDA. That statute says that where addresses aren't typically kept for a class of instruments, those instruments escheat to the state of purchase.
+Now, 50 years later, Delaware claims
+that it's entitled to the exact same sort of windfall t hat led to the enactment of the FDA.
+To justify that, it argues that the
+FDA doesn't cover instruments that function
+Heritage Reporting Corporation
+1
+2   3 4   5   6   7   8   9
+10  11  12  13  14  15  16  17  18  19  20  21  22  23  24 25  38 Official
+precisely like other money orders but are
+marketed differently.  But marketing strategies
+do not define commercial instruments and they
+don't justify $250 million windfalls.           Recognizing the weakness of that argument, Delaware alternatively claims that MoneyGram official checks are excluded from the FDA as third- party bank checks. That argument
+fares no better because MoneyGram is not a third
+party as that term was used in 1974, and MoneyGram's official checks are absolutely not bank checks.
+Nor, for that matter, does Delaware
+explain why Congress would have chosen to exclude instruments that present precisely the windfall problem that the FDA targeted.
+So it's hardly surprising that all
+three payment systems experts in this case, including Delaware's own expert, agreed that under any ordinary understanding of the phrase "third-party bank check," MoneyGram official
+checks are not third- party bank checks.
+So we would ask this Court to overrule
+the exceptions and adopt the Special Master's recommendation.
+Heritage Reporting Corporation
+1
+2 3   4   5 6 7 8   9
+10  11  12  13  14  15  16  17  18  19  20  21 22 23  24  25  39Official
 JUSTICE JACKSON:  Why does it describe
 the disputed instruments?  Your opposing counsel says the disputed instruments are a class in which the addresses are typically kept.
 MR. BRONNI: So I --I --I think tha t
 sometimes the addresses -- I think what the
 record actually reflects is that sometimes the addresses are collected by the selling financial
 Heritage Reporting Corporation
+1
+2   3 4 5 6 7   8   9
+10  11  12 13  14  15  16  17  18  19  20  21  22  23 24  25  42Official
+institution, as could be true, frankly, of a retail money order.  So that the statute my
+friend was referring to is a requirement that if you sell at least $3,000 worth of these instruments or a retail money order, you're required to collect information and maintain it
+as the seller.
+That information, however, is not
+transmitted to MoneyGram.  MoneyGram has a
+policy it will not accept that information.  It will not keep it.  So what that means is the issuer, which is the actual holder of the funds here, because it's not the selling bank that holds the money, the day after a transaction takes place, that money is transferred from the selling financial institution to MoneyG ram, and
+it's MoneyGram that holds that -- -that
 JUSTICE JACKSON:  But are they still
 viable in the teller's check realm?
 MR. BRONNI: They --they -- so there
@@ -47,15 +207,98 @@ to me is that if it is used to exclude instruments that function like money orde
 MR. BRONNI: That --I absolutely
 agree with that, Your Honor, that Treasury, when
 Heritage Reporting Corporation
-Justice Jackson? JUSTICE JACKSON:  One final question. So Justice Kagan pointed out that
-Congress might have been intending to cover the
-field with this statute.  And I guess my question is, so what --what is the field? It
-seems as though your friend says that really
-Congress was worried about no addresses, and, as a result, large- money instruments wouldn't fit
-in the statute because there was an incentive to have addresses.
-And I understood you to be focusing on
-Congress's be -- concern about inequitable escheatment, in which case these instruments would be covered.  So can you just, as a final word here, talk about what the purpose of this statute is?
-MR. BRONNI: I -- I -- I -- well, I'll
-start with the purpose of the statute is to address those instruments that presented the windfall inequity problem associated with the Court's common law rule.
-I think what they're suggesting is
+1
+2   3   4   5   6   7 8   9
+10  11  12  13 14  15 16  17  18  19  20  21  22  23    24  25  66 Official
+it requested this, and it's undisputed, it --yes, it's legislative history in some sense, but
+it's really drafting history.  Nobody disputes that --that Treasury requested this exception.
+And Treasury characterized it as a
+clarifying amendment that was designed to cure
+an ambiguity in the statute, which suggests that
+it was -- it was -- it was sort of the -- the
+narrow change to the statute to make something doubly clear.
+And I think the -- defining a
+third-party bank check as an ordinary check
+really fits that characterization of a clarifying amendment and a narrow sort of belt-and-suspenders approach to make sure that
+ordinary checks, which obviously do not present the windfall problem because, one, we have addresses because we have account information, right, but also aren't prepaid.
+So that -- that is entirely consistent
+with that -- that sort of legislative history.
+JUSTICE JACKSON:  Thank you. CHIEF JUSTICE ROBERTS: Thank you,
+counsel.
+Rebuttal, Mr. Katyal? REBUTTAL ARGUMENT OF NEAL K. KATYAL
+ON BEHALF OF DELAWARE
+MR. KATYAL: Thank you, Mr. Chief
+Justice.  Five points.
+First, as the Chief Justice said, they
+can solve this problem easily by saying MoneyGram has to have the information.  The information's already being collected by the banks. The only question is closing that informational hi ccup. And that's a lot better,
+Justice Sotomayor, than the instrument -by-instrument litigation that will be
 Heritage Reporting Corporation
+1
+2   3   4   56 7 8   9
+10  11 12 13  14  15 16  17  18 19  20  21  22  23  24  25  74 Official
+invited by their approach.
+His answer to that was -- to say to
+the Chief Justice, was, well, Congress put its thumb on the scale.  They did with respect to
+those two instruments.  The question in this case is, did they do so for anything more than that? And the reasons why Congress isolated
+those two instruments don't apply here.
+The other point is Congress is the
+solution to this.  Even if you don't think states will have this easy fix, which I can't understand to this day why they haven't done it, but Congress can, of course, do that.  That's what you said in the Delaware case in 1993.  If you're worried about equity concerns, Congress should fix it. And what did you point to in that --in that decision?  You literally pointed
+to 2503 and said that's the solution if you're worried about equity concerns.
+Second, with respect to third -party
+banks, my friend says that there's no expert testimony that supports our position.  That's a misreading of the record.  The expert, Ron Mann, just didn't support our position on the words "directly liable" back down below.  As this case
+Heritage Reporting Corporation
+1
+2   3   4   5 6 7 8   9
+10  11   12  13  14  15  16  17  18  19  20  21  22 23 24  25  75 Official
+comes to the Court, we agree Professor Mann was
+wrong with that.
+But, with the definition of
+"third-party bank check," I think, Mr. Chief
+Justice, you said, well, nobody really knows what it means. We actually think the Hunt Commission does know what it means, and they
+told you what it means in that report, and that says teller's checks are included.
+Now my friend says --this is our
+third point -- that cashier's and certified
+checks are different.  Well, first of all, note that he doesn't necessarily -- he doesn't
+disclaim them.  He says, well, we're not necessarily saying it.
+There's already litigation about
+cashier's checks and certified checks, as the ABA brief points out. There have been qui tam lawsuits that have been filed. He says, well, cashier's checks aren't prepaid. Most cashier's and certified checks are prepaid.  The only ones that aren't prepaid are the ones in which banks are paying their own expenses, and our brief explains why we think those types of checks are covered under the statute.
+Heritage Reporting Corporation
+1
+2   3 4   5   6   7   8 9
+10  11  12  13  14  15  16  17  18 19  20  21  22  23  24    25  76 Official
+Fourth thing, Justice Sotomayor, you
+-- you had said -- or, excuse me, Justice --Justice Jackson, you had said the question in
+this case is, what is the field that Congress occupied?  Congress knew exactly how to write the statute they want. They had the 1966 example.  They didn't do that here.  They wrote
+a much more narrow statute.
+And if you define, Justice Jackson, a
+money order as anything that transmits money that is prepaid, you blow up the statute.  It means you can't explain what "traveler's checks" means. You can't explain what is left for "other similar written instruments."  Everything would be a money order.  Nothing would be similar to a --nothing would be similar to it.
+And that's why Congress -- we think
+you should look to the rationales behind what Congress did.  You pointed to the legislative history and the Treasury Department, but th e
+Treasury Department just says essentially that this is a belt -and-suspenders fix.  It doesn't
+say that --it doesn't say that -- that -- that
+-- something like teller's checks, which the Hunt Commission defined as being a third- party
+Heritage Reporting Corporation
+1
+2   3   4 5 6   7 8 9
+10  11  12 13  14  15  16 17  18  19  20  21 22  23  24  25  77Official
+payment system, wouldn't be included.
+And, finally and last, if you adopt
+our solution, the common law, it incentivizes
+exactly the kind of concerns that Justice Alito was worried about in Yee. It avoids any
+questions about these other instruments, from
+gift cards to cashier's checks to bearer's bonds and the like, and it avoids threatening the common law primary rule because a primary rule is creditor addresses.  And, Justice Thomas, your opinion in Delaware said that has venerable, old roots going all the way back to Old England.
+If they win, forget about place of
+incorporation.  If they win, the primary rule of the FDA will control, which is to move away from last creditors' addresses.  That is something that there has been zero support that my friend has offered on the other side for, and that's why that old presumption that you read statutes to avoid derogation of the common law has special force here.
+We don't doubt, can you read the
+statute the way my friend does?  You can.  But, if you do so, it doesn't make sense of the
+Heritage Reporting Corporation
+1
+2   3 4   5   6 7 8   9
+10  11 12  13  14  15  16  17  18  1920212223242578Official
+statute and threatens all sorts of other financial instruments.  And as the ABA says,
+that's something you should be really, really
+concerned about in this unique area, particularly because, as Justice Sotomayor
+points out, this litigation can go all the way back to 1974 and unwind not just the two
+disputed instruments here but every other financial instrument.
+The safe thing to do is what you've
+done in case after case, which is to say, if we're concerned about equity, that's something for Congress.  It's something for the states. It's not for this Court.

@@ -1,5 +1,14 @@
 JUSTICE SOTOMAYOR:  Counsel, the --
 Heritage Reporting Corporation
+1
+2 3 4 5   6 7 8   9
+10  11  12  13  14  15  16  17  18  19         20  21  22  23  24  25  28 Official
+MoneyGram treats one of its other official checks, the agent check money orders, as subject to the FDA. Justice Thomas asked you what happens if they remove that tomorrow.
+Under your test that you just
+articulated to Justice Kagan, then it would go back to not being a money order?
+MR. KATYAL: No, Your Honor.  If I
+understand your question, it's the same
+instrument.  It just doesn't have the label "money order" on it.
 JUSTICE SOTOMAYOR:  They take it off. MR. KATYAL: Yeah.  If they take it
 off --
 JUSTICE SOTOMAYOR:  It's issued by --
@@ -11,6 +20,9 @@ operator.  They do collect information, don't they?
 MR. KATYAL: For agent check money
 orders, I think some information is collected, yes.
 Heritage Reporting Corporation
+1
+2   3   4 5   6 7   8 9
+10  11  12  13  14  15  16  17  18  19  20  21  22  23  24  25 29Official
 JUSTICE SOTOMAYOR:  All right.  And
 what was your third criteria?
 MR. KATYAL: That --that you have to
@@ -30,6 +42,15 @@ Now, if you strike that off from the
 back, then you might be -- then I think you are
 fundamentally changing the nature of the document because you're making it now not a
 Heritage Reporting Corporation
+1
+2   3   4   5 6   7   8   9
+10  11  12 13 14  15  16  17  18  19  20  21  22  23  24  25  30 Official
+limited recourse document; you're making it
+something else.
+And so that actually is a substantive
+change.  I think it's a -- and the reason --
+that's why I'm going through this, because it's
+different very much --
 JUSTICE SOTOMAYOR:  That's not the
 example I gave.
 MR. KATYAL: --than Justice Thomas's
@@ -47,6 +68,9 @@ instruments like the agent check money order here.
 And I think that is the -- when --
 when Congress adopted the term "money order," it
 Heritage Reporting Corporation
+1
+2   3   4   5   6   7   8 9
+10  11  12  13  14  15  16  17  18 19 20  21  22  23  24  25  --69 Official
 JUSTICE SOTOMAYOR:  You haven't
 answered my question.
 MR. BRONNI: I -- I -- I think that it
@@ -64,3 +88,58 @@ JUSTICE SOTOMAYOR:  Well, you waited
 how long to sue?  They're afraid of all the guys who are going to come after -- come and sue now.
 And they have good reason to worry because, once
 Heritage Reporting Corporation
+1
+2   3   4   5 6 7   8 9
+10 11  12  13  14 15  16  17  18  19  20  21  22  23  24  25  70 Official
+we write a decision, the world will have the
+roadmap.
+MR. BRONNI: So what I would say to
+that, Your Honor, is that -- that at least
+outside of the context of this case, I'm not aware of a situation where anybody -- they
+allude, for instance, to private realtors, not
+to states having brought suits over cashier's checks, and even in those cases, nobody that I'm aware of is arguing that a cashier's check is a money order.  Instead, those cases are all about the "similar written instruments" clause.
+But either way, I don't think that our
+definition, as I started by saying, necessarily requires treating them that way. I think they're well- known instruments.  And if -- if
+Congress had intended to include them, it probably would have used that language because they were well -known instruments at the time and
+they just don't fit what Congress describes in 2501 as --as a money order because they're not
+instruments for which addresses weren't kept as a business practice.
+JUSTICE SOTOMAYOR:  Thank you. CHIEF JUSTICE ROBERTS:  Justice Kagan?
+Heritage Reporting Corporation
+1
+2   3   4   5   6 7   8   9
+10 11  12 13  14     15  16  17  18 19  20  21  22  23  24  25  71Official
+Justice Gorsuch?  No? Justice Barrett?
+Justice Jackson? JUSTICE JACKSON:  One final question. So Justice Kagan pointed out that
+Congress might have been intending to cover the
+field with this statute.  And I guess my question is, so what --what is the field? It
+seems as though your friend says that really
+Congress was worried about no addresses, and, as a result, large- money instruments wouldn't fit
+in the statute because there was an incentive to have addresses.
+And I understood you to be focusing on
+Congress's be -- concern about inequitable escheatment, in which case these instruments would be covered.  So can you just, as a final word here, talk about what the purpose of this statute is?
+MR. BRONNI: I -- I -- I -- well, I'll
+start with the purpose of the statute is to address those instruments that presented the windfall inequity problem associated with the Court's common law rule.
+I think what they're suggesting is
+Heritage Reporting Corporation
+1
+2   3   4   5   6   7 8 9
+10  11  12  13  14  15  16    17 18  19  20  21  22 23  24  25  72 Official
+there would be an incentive to keep addresses
+for larger -dollar instruments.  However, this
+case is a prime example of that hasn't happened. These are larger -dollar instruments, and
+MoneyGram does not keep addresses.
+And it's the -- the -- the point here
+is that it's the issuer. It's the party that is actually responsible for paying these instruments. It's the party that holds the unclaimed property.  And it hasn't kept those --
+address information.  So, I mean, to the extent Delaware's suggesting that that somehow makes a difference here, the record just doesn't bear that out.
+But, again, going back to the -- the
+-- the other point about -- you know, Congress's
+actual concern was not just the low- dollar
+instruments.  Congress's concern was that requiring addresses to be kept for money orders as a class of instruments and other similar written instruments would be an additional burden that is not justified in light of the fact that people buy these instruments where they do their banking.  They buy them in their home state.
+Heritage Reporting Corporation
+1
+2   3   4 5 6 7 8 9
+10  11  12  13  14  15              16  17  18  19  20  21  22  23  24  25  73Official
+So, if you required addresses and all
+the burdens that go along with that, it's simply going to reflect the same place. So what
+Congress is saying in 2501 is, to use Learned Hand's phrase, the game is not worth the candle here. Congress just decided it was easier just to have these instruments escheat to the state of purchase, regardless of what their value
+would be.

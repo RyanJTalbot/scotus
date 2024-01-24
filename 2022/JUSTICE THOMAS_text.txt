@@ -3,11 +3,34 @@ weight do you put on this money order designation?  What if, tomorrow morning, t
 MR. KATYAL: So, Justice Thomas, that
 -- if they changed the label, we do think that it would mean it's not a money order or
 Heritage Reporting Corporation
+1
+2   3   4   5   6   7  8 9
+10  11  12 13  14  15  16 17  18  19  20  21  22 23  24  25  7Official
+traveler's check.  So we do think you look to the label for that.  And, indeed, I think that's
+what they say about traveler's checks.  But we don't think it would be true for other similar instruments.
+So we think that in your hypothetical,
+in which you have the exact same instrument, but it has just a different name on it, that is an
+other similar written instrument.
+Notably, you know, that's never
+happened, and the reason is because money orders and those labels are important for consumers and for banks.  They want to know what they're getting.  They want to know what they're selling.  And that's why they can't point to a single example where that label has ever been stripped off.
+But I agree with you, Justice Thomas,
+if that happened, that would fall within the FDA, your hypothetical.
 JUSTICE THOMAS:  So -- well, the --
 can you point to any reason in the past why this would be --this definition of "money order" is
 so narrow?  It would seem to me that with its --
 over time, it's not necessarily, as you say it
 Heritage Reporting Corporation
+1
+2   3   4 5   6   7 8 9
+10 11  12  13  14  15    16 17 18  19  20  21
+22  23  24  25  8Official
+is, a discrete set of instruments.
+MR. KATYAL: So we don't doubt,
+Justice Thomas, that there is a way to define
+"money order" as broadly as my friends on the
+other side do.
+If you do that, it blows up things
+like cashier's checks, certified checks, all the stuff that the American Bank Association is warning you about and that Judge Leval couldn't get around because he just said I'm not going to define it, but --
 JUSTICE THOMAS:  One -- one final
 question, and I'm sure my colleagues will have more. But how do you get around "similar," the -- the similarity language? It seems as though all of these are drafts and that if you say, "well, it's not a money order," it looks like a money order in many other ways.
 So why is --is it --does it not fall
@@ -16,10 +39,39 @@ MR. KATYAL: Yes, Justice Thomas.  We
 don't think it falls into the similar --
 similarity category.  We think that's for things like what you were talking about before in your first question to me, where the --where the
 Heritage Reporting Corporation
-Justice Thomas, anything further? JUSTICE THOMAS:  No questions. CHIEF JUSTICE ROBERTS:  Justice Alito? JUSTICE ALITO:  You say that a
-third-party bank check is a check that is
-effective on the signature of a bank officer.
+1
+2   3   4 5   6   7   8 9
+10  11  12  13 14  15  16  17 18  19 20  21  22  23   24  25 9 Official
+name isn't there and possibly some other things.
+But, here, there are three things
+about these disputed instruments which aren't
+true about money orders.
+First, you can only buy disputed
+instrument --instruments at a bank.  Money
+orders are sold typically at retailers, CVS,
+Walmart, and the like.
+Second, you will have a bank account
+when you buy them.
+And --and, third, --and the third
+point is that the money order -- the -- that --that money orders aren't signed by the bank, but these two disputed instruments are.
+Now I know that sounds formalistic.
+Here's why that matters:  Because Congress and the FDA was worried about what this Court invited states to do in 1972, which is impose address collection requirements on money orders and traveler's checks.
+And what they said is these are
+small-denomination instruments.  If you do that,
+it's going to increase the price of them. The disputed instruments, because there is that bank account and because you're going into the bank,
 Heritage Reporting Corporation
+1
+2   3   4 5   6   7 8 9
+10 11  12  13  14  15 16  17  18 19  20  21  22 23  24 25  10 Official
+that address information is already being
+collected now.
+So, if you're worried about my
+friend's point about equity and the windfall to
+a particular sta te with respect to these
+disputed instruments, the states have the
+easiest fix in the world, a fix they didn't have in 1972, which is to say whenever you're one of
+those banks deal ing with MoneyGram, you just
+have to transmit the address information that you're already collecting.
 JUSTICE THOMAS:  Mr. Bronni, would you
 spend a few minutes on the -- Mr. Katyal's
 parade of horribles if we accept your argument?
@@ -32,8 +84,9 @@ definition requires that an instrument be prepaid.  A cashier's check as a class
 So, for instance, if a bank needs to
 pay its own obligations, say it needs to pay an electrician or meet a tax bill, it will issue a check drawn on its own accounts. That's a cashier's check.  That is not a prepaid instrument.
 Heritage Reporting Corporation
-Justice Thomas, anything further? JUSTICE THOMAS:  Nothing. CHIEF JUSTICE ROBERTS:  Justice Alito? JUSTICE SOTOMAYOR:  Do you think we do
-more harm or less harm if we take the Special Master's suggestion that we decide this case
-with --without adopting a firm definition of
-money order?
-MR. BRONNI: So I --I think --
+1
+2 3   4   5 6   7   8 9
+10 11 12  13  14  15 16  17  18 19 20  21  22  23  24  25 40Official
+If the bank needs to disburse loan
+proceeds, it will issue a check drawn on its own
+accounts.

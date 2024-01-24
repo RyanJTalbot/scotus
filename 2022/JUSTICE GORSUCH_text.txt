@@ -1,6 +1,10 @@
 JUSTICE GORSUCH:  All right.  I was
 sitting here quietly.
 Heritage Reporting Corporation
+1
+2   3 4   5   6   7 8   9
+10  11  12  13  14  15  16  17  18  19  20  21  22  23  24  25  21Official
+(Laughter.)
 JUSTICE GORSUCH:  But now you've drawn
 me out, Mr. Katy al.
 Other similar instruments, the
@@ -15,11 +19,26 @@ MR. KATYAL: Yes.  So exactly -- one
 category is exactly what Justice Thomas began the argument with, which is a money order in every way, shape, and form, except it doesn't have the label on it. So our argument is not limited, Justice Gorsuch, to different spellings.
 Same product without the label is what
 Heritage Reporting Corporation
+1
+2   3 4 5   6 7 8   9
+10  11 12  13  14  15  16  17  18 19 20  21  22        23  24  25  22 Official
+an other similar instrument is. That's one
+category.  Another category are things, I think
+generic products, so just like a copy is called a Xerox, I think Congress in 1974 was worried
+that a traveler's check might be called an AMEX
+or worried that a money order might be called a Western Union. That's a second category.
+And then a third category of other
+similar instruments are some of the things that have been bandied about in this litigation and in the briefs. So there's something called an agent check money order.  There's something called a personal money order.  That's in o ur
+appendix at page 381. There's something called a bank money order.  There's something --
 JUSTICE GORSUCH:  I take your point.
 Okay. But does it underline another point that may be problematic, and that is that labels cannot control substance in our analysis here? We --can we agree on that?
 MR. KATYAL: We do. JUSTICE GORSUCH:  Okay. MR. KATYAL: And -- and so our point
 is labels are very good at deciding traveler's check, money order.  And they're good not just
 Heritage Reporting Corporation
+1
+2   3   4   5   6   7   8   9
+10  11  12  13  14  15  16 17  18  19    20  21  22  23  24  25  23Official
+for courts.
 JUSTICE GORSUCH:  Well, I guess I'm
 wondering why -- why they're good for some purposes b ut not others?
 MR. KATYAL: Because I think it
@@ -38,18 +57,34 @@ MR. KATYAL: Yeah.  So we -- we think
 the labels matter because they matter --they're
 not just for courts.  They're, after all, for banks and consumers.  Banks have to figure out, you know, what is this product and where do --which state do we escheat it to? And labels are
 Heritage Reporting Corporation
-Justice Gorsuch? JUSTICE GORSUCH:  Thank you. JUSTICE KAVANAUGH:  Just to pick up
-quickly on Justice Kagan's earlier question on "similar written instrument," that's kind of a
-statutory version -- version of ejusdem generis,
-I suppose, and we're always trying to figure out
-what the key features are.
-Why aren't the key features here
-prepaid money transmission product, doesn't show last known address of purchaser, and the windfall purpose is implicated?  So you have arguments, but why aren't those the better features to focus on when we're figuring out what "similar" means here?
-MR. KATYAL: Be -- because, if you do
-that, you blow up the statute to include cashier's checks, certified checks, and all sorts of stuff that Congress knew exactly how to name or to write open- ended statutes and didn't.
-And so, to us, you know, goin g back to
-the statutory interpretation question, it's like a statute that said, you know, rubber bands, paper clips, or other similar items.
+1
+2   3 4   5   6   7 8 9
+10  11 12  13  14  15 16  17  18  19  20  21  22  23 24  25  24 Official
+a really good way to do that, as opposed to some
+convoluted eight -factor test where you've got to
+have law professors testifying about experts,
+about what -- whether something is a money order or not.
+So we think labels in general work,
+but Congress was concerned about more than that. And that's what I was saying to Justice Thomas.
+And so that's what "other similar written
+instrument" does. It's labels for the first part but not for the second part.
+And I think Congress in 1974 had
+examples of statutes in which other products were enumerated.  So our brief cites, for example, 26 U.S.C. 6311, which is a 1970 statute which refers to "any certified, treasurer's, or cashier's check ... or any money order," I think demonstrating that Congress knew -- thought money orders were distinct from these other products.
+If you adopt my friend's
+interpretation, cashier's checks, certified checks, all of those become money orders because they are all instrupents --instruments that
+prepay money.  And as the American Bar
 Heritage Reporting Corporation
+1
+2   3 4   5   6 7   8   9
+10  11  12  13  14  15  16  17  18  19  20  21  22 23  24  25 25 Official
+Association brief says, that's going to be a
+disaster because millions and millions of
+dollars, and there's a little -- at least
+there's some hyperbole -- or not hyperbole.
+There's -- there's some subjective
+quantification of this in the ABA brief saying
+that that is incredibly damaging and
+destabilizing to the financial sector because this has all been around and done a certain way since 1974.
 JUSTICE GORSUCH:  Can I ask you a
 question that kind of goes sideways?  At --at
 -- at places in your brief, you indicate that you're after not just a declaration of rights here under the Disposition Act, but you actually want money damages for past wrongful takings of monies you think belong to your states.
@@ -59,6 +94,21 @@ we were to agree with you, what happens next and on what theory?
 MR. BRONNI: So I --I think it is an
 implied cause of action under the statute, but I would add that we have not litigated the damages issue or the question, those kinds of arguments haven't been presented to Judge Leval because
 Heritage Reporting Corporation
+1
+2   3   4   5 6   7   8   9
+10  11  12  13  14  15 16  17  18  19  20  21  22  23  24  25  59 Official
+the parties agreed to bifurcate the proceedings
+here. So we haven't addressed any of the damages issues.
+But, as for things -- I know Delaware
+discusses in its brief, you know, the -- the
+possibility that -- that it could need to repay this money.  But what I would -- I would highlight is, you know, anytime we're dealing
+with unclaimed property, the -- the state is
+essentially holding it in trust.
+It's not the State of Delaware's
+money. It's not -- not really our state's money. We hold it in trust for our -- for
+the -- the -- the true owners. So requiring it
+to pay that money to the appropriate state whic h
+will hold it in trust for the actual owners, Delaware really doesn't have any reliance interest there that would be upset.
 JUSTICE GORSUCH:  But whether there's
 an -- such an implied cause of action under the
 Disposition Act would be something that the Special Master would have to resolve after this?
@@ -66,6 +116,12 @@ MR. BRONNI: For the -- for the
 damages issue --
 JUSTICE GORSUCH:  Yeah.
 Heritage Reporting Corporation
+1
+2 3   4   5   6   7   8   9
+10    11  12  13  14  15 16  17  18  19  20  21  22  23 24 25 60Official
+MR. BRONNI: -- yes, Your Honor, I
+think that's something that could be resolved in
+there.
 JUSTICE GORSUCH:  All right.  All
 right. Thank you.  Thank you.
 MR. BRONNI: There's one other point I
@@ -80,3 +136,31 @@ discussing teller's checks, a -- a -- a bank
 check -- and this is -- is really you've only
 been offered two sort of reasonable readings of what that term meant in the 1970s or even today, one of which I'll call the sort of technical
 Heritage Reporting Corporation
+1
+2   3   4 5 6 7 8 9
+10  11  12
+13  14  15  16  17  18 19  20  21  22  23  24          25  61Official
+definition.
+This is at page 37 of their exceptions
+where they say that a -- a bank check is an
+instrument that's signed by a bank officer, and, as I said before, they stopped reading at that point, but it actually says drawing on funds deposited in the officer's own bank, that's a classic cashier's check, or drawing on funds of the officer's bank deposited in another financial institution.  That's a classic or traditional teller's check.
+Again, that does not describe these
+instruments here.  When the bank officer signs, one, he's signing as an agent of MoneyGram.  To the extent that's not already obvious as a functional matter, the contracts between MoneyGram and the financial institutions make very clear the financial institution is an agent of MoneyGram.
+So in --it doesn't -- there -- these
+instruments don't meet that definition because it's --it's not signing to draw on any funds
+that are in any control of the selling bank.
+Instead, it's MoneyGram that has the
+money, and it's MoneyGram that is responsible
+Heritage Reporting Corporation
+1
+2   3   4 5 6 7 8 9
+10  11  12 13  14  15  16  17  18 19 20  21  22  23 24  25  62 Official
+for paying the drawee bank or for reporting the
+unclaimed property.
+The other definition of bank check
+that you've been given is a broader definition than that, and it's the -- the definition that Brady's Law of Bank Checks, which is again reproduced in Delaware's appendix, gives for bank checks where it describes a bank check as
+both those -- that technical definition that I
+just mentioned but also ordinary checks.
+Or -- in -- in the 1970s going all the
+way back until World War I, "bank check" had been used as a terminology -- used as a term under Brady's Law of Bank Checks to both mean those -- those specific instruments issued by banks but also ordinary checks, and that's part of why a third -party bank check ultimately, what
+that phrase means if we're in the "similar written instrument" provision, is an ordinary check.
